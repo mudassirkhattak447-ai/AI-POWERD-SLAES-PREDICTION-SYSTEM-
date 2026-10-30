@@ -1,0 +1,2001 @@
+Transaction_ID	Date	Product	Category	Region	Quantity	Unit_Price	Discount	Sales
+TXN1012	01/01/2023	Headphones	Electronics	West	4	85.57	0	342.28
+TXN1009	01/01/2023	Printer Paper	Stationery	South	2	30.51	0	61.02
+TXN1002	01/01/2023	Printer Paper	Stationery	East	3	31.28	0	93.84
+TXN1008	01/01/2023	Desk	Furniture	North	1	213.17	0	213.17
+TXN1001	01/01/2023	Water Bottle	Accessories	North	3	20.57	0.1	55.54
+TXN1005	01/01/2023	Office Chair	Furniture	West	1	155.9	0.15	132.52
+TXN1011	01/01/2023	Backpack	Accessories	West	4	53.84	0	215.36
+TXN1000	01/01/2023	Printer Paper	Stationery	North	2	30.59	0.15	52
+TXN1004	01/01/2023	Smartphone	Electronics	West	2	303.95	0.1	547.11
+TXN1003	01/01/2023	Backpack	Accessories	East	3	53.5	0	160.5
+TXN1006	01/01/2023	Headphones	Electronics	North	2	85.89	0	171.78
+TXN1010	01/01/2023	Backpack	Accessories	West	3	53.97	0.1	145.72
+TXN1007	01/01/2023	Pen Set	Stationery	South	4	15.7	0.1	56.52
+TXN1016	02/01/2023	Printer Paper	Stationery	South	4	28.59	0	114.36
+TXN1021	02/01/2023	Backpack	Accessories	East	3	53.14	0	159.42
+TXN1015	02/01/2023	Pen Set	Stationery	East	1	15.2	0.1	13.68
+TXN1018	02/01/2023	Smartphone	Electronics	West	2	293.81	0	587.62
+TXN1019	02/01/2023	Printer Paper	Stationery	South	3	30.49	0.1	82.32
+TXN1020	02/01/2023	Backpack	Accessories	North	2	52.37	0	104.74
+TXN1013	02/01/2023	Backpack	Accessories	East	2	54.77	0.1	98.59
+TXN1017	02/01/2023	Headphones	Electronics	North	2	93.18	0	186.36
+TXN1014	02/01/2023	Headphones	Electronics	East	1	91.52	0	91.52
+TXN1028	03/01/2023	Water Bottle	Accessories	South	1	20.44	0.1	18.4
+TXN1024	03/01/2023	Water Bottle	Accessories	South	2	20.4	0.15	34.68
+TXN1023	03/01/2023	Pen Set	Stationery	North	3	14.38	0	43.14
+TXN1026	03/01/2023	Office Chair	Furniture	East	1	156.04	0	156.04
+TXN1030	03/01/2023	Desk	Furniture	South	2	219.87	0	439.74
+TXN1027	03/01/2023	Headphones	Electronics	North	3	90.71	0	272.13
+TXN1025	03/01/2023	Water Bottle	Accessories	South	2	20.43	0.1	36.77
+TXN1022	03/01/2023	Pen Set	Stationery	South	2	14.82	0	29.64
+TXN1029	03/01/2023	Pen Set	Stationery	North	1	15.22	0.05	14.46
+TXN1035	04/01/2023	Printer Paper	Stationery	East	4	29.49	0	117.96
+TXN1037	04/01/2023	Headphones	Electronics	West	2	86.48	0.05	164.31
+TXN1036	04/01/2023	Printer Paper	Stationery	Central	2	30.98	0	61.96
+TXN1038	04/01/2023	Office Chair	Furniture	West	1	153.4	0.05	145.73
+TXN1034	04/01/2023	Printer Paper	Stationery	East	3	31.31	0	93.93
+TXN1039	04/01/2023	Smartphone	Electronics	North	2	291.91	0.15	496.25
+TXN1033	04/01/2023	Water Bottle	Accessories	North	2	20.57	0	41.14
+TXN1032	04/01/2023	Pen Set	Stationery	North	2	15.14	0	30.28
+TXN1031	04/01/2023	Smartphone	Electronics	Central	1	290.12	0.05	275.61
+TXN1043	05/01/2023	Water Bottle	Accessories	Central	1	20.5	0.15	17.43
+TXN1046	05/01/2023	Headphones	Electronics	North	1	87.67	0.15	74.52
+TXN1045	05/01/2023	Pen Set	Stationery	West	2	14.39	0	28.78
+TXN1042	05/01/2023	Water Bottle	Accessories	South	1	19.09	0	19.09
+TXN1047	05/01/2023	Backpack	Accessories	East	4	53.24	0	212.96
+TXN1040	05/01/2023	Desk	Furniture	South	1	226.78	0.1	204.1
+TXN1044	05/01/2023	Water Bottle	Accessories	West	1	19.63	0.05	18.65
+TXN1041	05/01/2023	Water Bottle	Accessories	South	3	20.03	0	60.09
+TXN1056	06/01/2023	Desk	Furniture	Central	1	222.11	0.15	188.79
+TXN1050	06/01/2023	Pen Set	Stationery	West	4	15.01	0	60.04
+TXN1053	06/01/2023	Desk	Furniture	West	2	219.75	0	439.5
+TXN1049	06/01/2023	Headphones	Electronics	North	4	87.57	0	350.28
+TXN1052	06/01/2023	Backpack	Accessories	Central	4	52.93	0	211.72
+TXN1051	06/01/2023	Pen Set	Stationery	West	2	15.46	0	30.92
+TXN1054	06/01/2023	Water Bottle	Accessories	North	3	20.85	0	62.55
+TXN1048	06/01/2023	Office Chair	Furniture	East	4	157.08	0.1	565.49
+TXN1055	06/01/2023	Printer Paper	Stationery	North	1	28.82	0.05	27.38
+TXN1065	07/01/2023	Smartphone	Electronics	North	2	286.66	0	573.32
+TXN1063	07/01/2023	Headphones	Electronics	North	1	88.29	0.1	79.46
+TXN1060	07/01/2023	Desk	Furniture	Central	2	223.34	0	446.68
+TXN1066	07/01/2023	Smartphone	Electronics	South	1	305.42	0.05	290.15
+TXN1067	07/01/2023	Office Chair	Furniture	Central	4	155.63	0.05	591.39
+TXN1062	07/01/2023	Backpack	Accessories	East	4	52.62	0	210.48
+TXN1059	07/01/2023	Pen Set	Stationery	South	4	15.15	0.15	51.51
+TXN1061	07/01/2023	Printer Paper	Stationery	West	3	29.21	0	87.63
+TXN1057	07/01/2023	Printer Paper	Stationery	North	3	28.55	0.1	77.09
+TXN1058	07/01/2023	Backpack	Accessories	East	2	53.53	0.1	96.35
+TXN1068	07/01/2023	Laptop	Electronics	North	1	438.15	0	438.15
+TXN1064	07/01/2023	Water Bottle	Accessories	North	3	19.57	0	58.71
+TXN1075	08/01/2023	Headphones	Electronics	North	2	89.25	0	178.5
+TXN1080	08/01/2023	Office Chair	Furniture	West	1	145.54	0.1	130.99
+TXN1070	08/01/2023	Smartphone	Electronics	Central	1	286.56	0.15	243.58
+TXN1081	08/01/2023	Water Bottle	Accessories	North	4	20.23	0	80.92
+TXN1069	08/01/2023	Desk	Furniture	East	1	217.22	0	217.22
+TXN1079	08/01/2023	Pen Set	Stationery	East	1	15.05	0.1	13.55
+TXN1078	08/01/2023	Printer Paper	Stationery	West	4	30.11	0	120.44
+TXN1072	08/01/2023	Backpack	Accessories	West	3	55.78	0.1	150.61
+TXN1082	08/01/2023	Backpack	Accessories	North	3	57.4	0	172.2
+TXN1077	08/01/2023	Pen Set	Stationery	Central	1	15.67	0	15.67
+TXN1073	08/01/2023	Headphones	Electronics	Central	4	90.13	0.05	342.49
+TXN1071	08/01/2023	Smartphone	Electronics	Central	2	312.08	0.15	530.54
+TXN1076	08/01/2023	Desk	Furniture	South	2	216.2	0	432.4
+TXN1074	08/01/2023	Printer Paper	Stationery	South	4	30.42	0	121.68
+TXN1085	09/01/2023	Pen Set	Stationery	East	1	15.1	0	15.1
+TXN1083	09/01/2023	Backpack	Accessories	West	2	56.55	0.05	107.44
+TXN1090	09/01/2023	Backpack	Accessories	South	3	54.25	0	162.75
+TXN1089	09/01/2023	Backpack	Accessories	Central	1	54.09	0.1	48.68
+TXN1086	09/01/2023	Printer Paper	Stationery	West	3	30.79	0.05	87.75
+TXN1087	09/01/2023	Printer Paper	Stationery	North	1	31.29	0.05	29.73
+TXN1084	09/01/2023	Water Bottle	Accessories	North	1	20.18	0	20.18
+TXN1088	09/01/2023	Smartphone	Electronics	South	2	304.74	0	609.48
+TXN1095	10/01/2023	Smartphone	Electronics	North	1	305.58	0.05	290.3
+TXN1096	10/01/2023	Printer Paper	Stationery	East	3	29.39	0.1	79.35
+TXN1099	10/01/2023	Backpack	Accessories	West	1	57.75	0	57.75
+TXN1091	10/01/2023	Headphones	Electronics	South	1	89.44	0.15	76.02
+TXN1094	10/01/2023	Water Bottle	Accessories	East	2	20.7	0	41.4
+TXN1092	10/01/2023	Backpack	Accessories	West	1	57.4	0.05	54.53
+TXN1097	10/01/2023	Printer Paper	Stationery	West	1	31.26	0	31.26
+TXN1098	10/01/2023	Smartphone	Electronics	South	1	311.38	0.15	264.67
+TXN1093	10/01/2023	Printer Paper	Stationery	West	1	31.46	0	31.46
+TXN1107	11/01/2023	Water Bottle	Accessories	North	2	20.47	0	40.94
+TXN1108	11/01/2023	Office Chair	Furniture	East	1	157.2	0.1	141.48
+TXN1100	11/01/2023	Smartphone	Electronics	North	2	285.87	0.15	485.98
+TXN1103	11/01/2023	Pen Set	Stationery	West	4	14.61	0.1	52.6
+TXN1101	11/01/2023	Headphones	Electronics		4	87.28	0.1	314.21
+TXN1106	11/01/2023	Smartphone	Electronics	East	2	307.36	0.05	583.98
+TXN1102	11/01/2023	Pen Set	Stationery	North	4	14.26	0	57.04
+TXN1104	11/01/2023	Smartphone	Electronics	West	2	312.83	0.1	563.09
+TXN1105	11/01/2023	Pen Set	Stationery	North	4	14.31	0.15	48.65
+TXN1117	12/01/2023	Headphones	Electronics	North	4	88.35	0.05	335.73
+TXN1115	12/01/2023	Headphones	Electronics	South	4	88.24	0	352.96
+TXN1116	12/01/2023	Pen Set	Stationery	South	2	14.87	0.05	28.25
+TXN1109	12/01/2023	Pen Set	Stationery	West	1	15.58	0	15.58
+TXN1110	12/01/2023	Headphones	Electronics	Central	2	87.15	0	174.3
+TXN1112	12/01/2023	Headphones	Electronics	East	1	88.21	0.15	74.98
+TXN1114	12/01/2023	Printer Paper	Stationery	North	3	29.92	0	89.76
+TXN1111	12/01/2023	Printer Paper	Stationery	East	3	30.41	0.1	82.11
+TXN1113	12/01/2023	Pen Set	Stationery	North	2	15.66	0.05	29.75
+TXN1118	13/01/2023	Printer Paper	Stationery	East	1	30.22	0	30.22
+TXN1125	13/01/2023	Office Chair	Furniture	West	2	147.21	0	294.42
+TXN1123	13/01/2023	Office Chair	Furniture	North	3	149.91	0.15	382.27
+TXN1121	13/01/2023	Desk	Furniture	Central	2	225.21	0.05	427.9
+TXN1120	13/01/2023	Backpack	Accessories	East	2	54.62	0.05	103.78
+TXN1126	13/01/2023	Laptop	Electronics	South	1	466.04	0.1	419.44
+TXN1122	13/01/2023	Water Bottle	Accessories	West	4	20.04	0.05	76.15
+TXN1124	13/01/2023	Smartphone	Electronics	South	2	286.67	0.15	487.34
+TXN1119	13/01/2023	Backpack	Accessories	South	3	55.84	0.05	159.14
+TXN1130	14/01/2023	Headphones	Electronics	North	4	86.97	0.05	330.49
+TXN1129	14/01/2023	Backpack	Accessories	North	4	55.77	0	223.08
+TXN1140	14/01/2023	Printer Paper	Stationery	Central	2	30.26	0.15	51.44
+TXN1139	14/01/2023	Backpack	Accessories	Central	2	56.48	0	112.96
+TXN1134	14/01/2023	Headphones	Electronics	North	2	93.66	0	187.32
+TXN1133	14/01/2023	Smartphone	Electronics	East	2	298.01	0.1	536.42
+TXN1131	14/01/2023	Backpack	Accessories	West	4	55.31	0.15	188.05
+TXN1138	14/01/2023	Smartphone	Electronics	South	2	301.19	0	602.38
+TXN1127	14/01/2023	Pen Set	Stationery	Central	3	14.8	0	44.4
+TXN1135	14/01/2023	Headphones	Electronics	East	1	89.91	0	89.91
+TXN1136	14/01/2023	Printer Paper	Stationery	West	1	29.23	0	29.23
+TXN1132	14/01/2023	Water Bottle	Accessories	South	3	19.9	0	59.7
+TXN1128	14/01/2023	Water Bottle	Accessories	West	2	19.62	0.1	35.32
+TXN1137	14/01/2023	Pen Set	Stationery	West	3	15.26	0.05	43.49
+TXN1149	15/01/2023	Water Bottle	Accessories	West	1	19.58	0.15	16.64
+TXN1151	15/01/2023	Backpack	Accessories	East	4	57.67	0	230.68
+TXN1145	15/01/2023	Backpack	Accessories	East	3	57.65	0.05	164.3
+TXN1152	15/01/2023	Water Bottle	Accessories	North	1	20.59	0	20.59
+TXN1147	15/01/2023	Water Bottle	Accessories	North	3	20.73	0.1	55.97
+TXN1146	15/01/2023	Printer Paper	Stationery	West	4	31.21	0.1	112.36
+TXN1150	15/01/2023	Backpack	Accessories	North	3	52.93	0	158.79
+TXN1141	15/01/2023	Printer Paper	Stationery	South	4	28.81	0.05	109.48
+TXN1142	15/01/2023	Water Bottle	Accessories	South	3	19.36	0.05	55.18
+TXN1143	15/01/2023	Headphones	Electronics	South	2	93.85	0	187.7
+TXN1144	15/01/2023	Office Chair	Furniture	South	1	142.61	0.05	135.48
+TXN1148	15/01/2023	Backpack	Accessories	West	4	55.29	0	221.16
+TXN1158	16/01/2023	Laptop	Electronics	West	2	467.8	0	935.6
+TXN1155	16/01/2023	Backpack	Accessories	West	3	57.01	0.1	153.93
+TXN1154	16/01/2023	Desk	Furniture	West	2	211.4	0	422.8
+TXN1157	16/01/2023	Water Bottle	Accessories	West	2	20.03	0	40.06
+TXN1160	16/01/2023	Office Chair	Furniture	South	3	148.45	0.05	423.08
+TXN1156	16/01/2023	Backpack	Accessories	East	2	53.54	0	107.08
+TXN1153	16/01/2023	Backpack	Accessories	North	2	56.77	0.15	96.51
+TXN1159	16/01/2023	Headphones	Electronics	Central	2	88.63	0.15	150.67
+TXN1161	17/01/2023	Headphones	Electronics	West	3	88.58	0	265.74
+TXN1166	17/01/2023	Laptop	Electronics	South	1	456.05	0	456.05
+TXN1162	17/01/2023	Backpack	Accessories	South	3	53.88	0.15	137.39
+TXN1163	17/01/2023	Headphones	Electronics	West	1	94.48	0.05	89.76
+TXN1164	17/01/2023	Pen Set	Stationery	East	1	15.62	0	15.62
+TXN1167	17/01/2023	Printer Paper	Stationery	East	4	30.76	0.15	104.58
+TXN1165	17/01/2023	Headphones	Electronics	North	1	86.1	0	86.1
+TXN1168	17/01/2023	Office Chair	Furniture	South	2	146.03	0.15	248.25
+TXN1169	17/01/2023	Water Bottle	Accessories	East	2	20.48	0.05	38.91
+TXN1173	18/01/2023	Pen Set	Stationery	West	2	15.6	0.1	28.08
+TXN1172	18/01/2023	Backpack	Accessories	Central	3	54.87	0	164.61
+TXN1175	18/01/2023	Water Bottle	Accessories	North	4	19.87	0.05	75.51
+TXN1178	18/01/2023	Smartphone	Electronics	North	2	296.54	0	593.08
+TXN1177	18/01/2023	Smartphone	Electronics	South	2	300.48	0	600.96
+TXN1170	18/01/2023	Office Chair	Furniture	North	4	147.34	0	589.36
+TXN1171	18/01/2023	Water Bottle	Accessories	West	1	20.12	0	20.12
+TXN1176	18/01/2023	Water Bottle	Accessories	North	3	19.08	0	57.24
+TXN1174	18/01/2023	Headphones	Electronics	West	1	86.42	0.05	82.1
+TXN1186	19/01/2023	Water Bottle	Accessories	North	1	19.38	0	19.38
+TXN1180	19/01/2023	Laptop	Electronics	North	1	466.32	0	466.32
+TXN1183	19/01/2023	Headphones	Electronics	North	4	91.65	0	366.6
+TXN1181	19/01/2023	Printer Paper	Stationery	South	2	29.5	0	59
+TXN1185	19/01/2023	Backpack	Accessories	North	1	52.51	0	52.51
+TXN1179	19/01/2023	Headphones	Electronics	South	4	89.05	0	356.2
+TXN1184	19/01/2023	Office Chair	Furniture	East	1	143.23	0.15	121.75
+TXN1182	19/01/2023	Backpack	Accessories	South	2	53.68	0.15	91.26
+TXN1194	20/01/2023	Headphones	Electronics	West	3	91.87	0.1	248.05
+TXN1191	20/01/2023	Desk	Furniture	West	2	216	0.1	388.8
+TXN1188	20/01/2023	Backpack	Accessories	East	2	56.94	0	113.88
+TXN1189	20/01/2023	Headphones	Electronics	South	4	93.2	0.1	335.52
+TXN1187	20/01/2023	Pen Set	Stationery	East	2	15.1	0	30.2
+TXN1192	20/01/2023	Pen Set	Stationery	South	2	14.87	0	29.74
+TXN1193	20/01/2023	Smartphone	Electronics	North	2	295.39	0	590.78
+TXN1195	20/01/2023	Office Chair	Furniture	North	1	151.41	0.15	128.7
+TXN1190	20/01/2023	Water Bottle	Accessories	Central	3	20.21	0	60.63
+TXN1197	21/01/2023	Laptop	Electronics	East	2	472.19	0	944.38
+TXN1208	21/01/2023	Headphones	Electronics	Central	2	92.1	0	184.2
+TXN1201	21/01/2023	Pen Set	Stationery	South	1	15.56	0	15.56
+TXN1196	21/01/2023	Pen Set	Stationery	Central	1	15.01	0	15.01
+TXN1199	21/01/2023	Pen Set	Stationery	East	1	14.33	0	14.33
+TXN1205	21/01/2023	Printer Paper	Stationery	Central	2	28.78	0	57.56
+TXN1203	21/01/2023	Backpack	Accessories	Central	4	56.42	0.05	214.4
+TXN1206	21/01/2023	Desk	Furniture	Central	1	212.29	0.1	191.06
+TXN1202	21/01/2023	Pen Set	Stationery	West	1	14.84	0.05	14.1
+TXN1207	21/01/2023	Headphones	Electronics	Central	3	93.23	0	279.69
+TXN1200	21/01/2023	Office Chair	Furniture	North	2	155.04	0.05	294.58
+TXN1198	21/01/2023	Smartphone	Electronics	East	2	311.41	0.15	529.4
+TXN1204	21/01/2023	Desk	Furniture	West	2	209.27	0.05	397.61
+TXN1210	22/01/2023	Pen Set	Stationery	Central	2	15.61	0	31.22
+TXN1215	22/01/2023	Printer Paper	Stationery	South	1	29.63	0	29.63
+TXN1221	22/01/2023	Smartphone	Electronics	West	1	293.84	0	293.84
+TXN1220	22/01/2023	Printer Paper	Stationery	East	1	30.46	0.15	25.89
+TXN1218	22/01/2023	Water Bottle	Accessories	North	2	19.4	0	38.8
+TXN1213	22/01/2023	Water Bottle	Accessories	East	3	19.64	0	58.92
+TXN1212	22/01/2023	Laptop	Electronics	West	1	444.47	0.15	377.8
+TXN1217	22/01/2023	Water Bottle	Accessories	West	3	19.2	0	57.6
+TXN1216	22/01/2023	Headphones	Electronics	South	2	91.66	0	183.32
+TXN1214	22/01/2023	Pen Set	Stationery	Central	2	15.15	0	30.3
+TXN1219	22/01/2023	Printer Paper	Stationery	North	1	29.28	0	29.28
+TXN1211	22/01/2023	Backpack	Accessories	West	3	53.37	0	160.11
+TXN1209	22/01/2023	Printer Paper	Stationery	West	1	30.69	0.1	27.62
+TXN1227	23/01/2023	Desk	Furniture	North	1	225.99	0.1	203.39
+TXN1222	23/01/2023	Water Bottle	Accessories	Central	1	20.96	0.15	17.82
+TXN1229	23/01/2023	Headphones	Electronics	South	1	87.12	0.15	74.05
+TXN1223	23/01/2023	Smartphone	Electronics	East	1	294.13	0	294.13
+TXN1230	23/01/2023	Printer Paper	Stationery	Central	1	30.63	0	30.63
+TXN1228	23/01/2023	Water Bottle	Accessories	North	2	20.79	0	41.58
+TXN1225	23/01/2023	Headphones	Electronics	Central	1	86.94	0	86.94
+TXN1226	23/01/2023	Pen Set	Stationery	South	3	14.69	0.1	39.66
+TXN1224	23/01/2023	Smartphone	Electronics	East	2	303.5	0.15	515.95
+TXN1235	24/01/2023	Water Bottle	Accessories	North	1	20.11	0	20.11
+TXN1231	24/01/2023	Printer Paper	Stationery	North	3	29.23	0	87.69
+TXN1232	24/01/2023	Water Bottle	Accessories	East	1	20.55	0.15	17.47
+TXN1239	24/01/2023	Backpack	Accessories	Central	2	53.09	0	106.18
+TXN1240	24/01/2023	Office Chair	Furniture	West	3	147.64	0	442.92
+TXN1238	24/01/2023	Printer Paper	Stationery	West	3	31.47	0	94.41
+TXN1234	24/01/2023	Headphones	Electronics	East	2	94.07	0	188.14
+TXN1237	24/01/2023	Office Chair	Furniture	South	4	149.48	0.05	568.02
+TXN1236	24/01/2023	Headphones	Electronics	Central	4	86.57	0	346.28
+TXN1233	24/01/2023	Printer Paper	Stationery	South	2	30.11	0.05	57.21
+TXN1246	25/01/2023	Pen Set	Stationery	South	1	15.68	0	15.68
+TXN1251	25/01/2023	Backpack	Accessories	South	3	57.24	0.05	163.13
+TXN1248	25/01/2023	Printer Paper	Stationery	Central	2	30.75	0.15	52.27
+TXN1242	25/01/2023	Printer Paper	Stationery	Central	2	28.51	0.05	54.17
+TXN1247	25/01/2023	Headphones	Electronics	North	1	93.11	0.1	83.8
+TXN1244	25/01/2023	Headphones	Electronics	Central	4	89.04	0.05	338.35
+TXN1245	25/01/2023	Office Chair	Furniture	West	2	149.42	0.1	268.96
+TXN1249	25/01/2023	Printer Paper	Stationery	Central	4	29.41	0.05	111.76
+TXN1243	25/01/2023	Office Chair	Furniture	North	4	149.37	0	597.48
+TXN1250	25/01/2023	Desk	Furniture	East	2	217.87	0.1	392.17
+TXN1241	25/01/2023	Backpack	Accessories	Central	3	53.42	0.1	144.23
+TXN1258	26/01/2023	Water Bottle	Accessories	East	3	19.51	0.05	55.6
+TXN1256	26/01/2023	Office Chair	Furniture	West	4	146.75	0	587
+TXN1259	26/01/2023	Office Chair	Furniture	West	3	148.5	0.15	378.68
+TXN1255	26/01/2023	Water Bottle	Accessories	North	4	20.34	0	81.36
+TXN1257	26/01/2023	Water Bottle	Accessories	West	3	20.08	0	60.24
+TXN1252	26/01/2023	Office Chair	Furniture	North	3	149.1	0	447.3
+TXN1254	26/01/2023	Laptop	Electronics	West	2	436.4	0	872.8
+TXN1253	26/01/2023	Smartphone	Electronics	West	1	304.67	0.1	274.2
+TXN1260	26/01/2023	Laptop	Electronics	East	2	466.88	0	933.76
+TXN1261	27/01/2023	Water Bottle	Accessories	East	4	19.64	0.15	66.78
+TXN1263	27/01/2023	Water Bottle	Accessories	Central	4	20.69	0.15	70.35
+TXN1266	27/01/2023	Headphones	Electronics	North	2	89.19	0.05	169.46
+TXN1270	27/01/2023	Headphones	Electronics	East	4	89.31	0	357.24
+TXN1269	27/01/2023	Backpack	Accessories	Central	3	54.4	0	163.2
+TXN1264	27/01/2023	Backpack	Accessories	East	4	56.44	0.1	203.18
+TXN1267	27/01/2023	Backpack	Accessories	North	2	53.17	0.15	90.39
+TXN1262	27/01/2023	Printer Paper	Stationery	North	2	29.5	0.05	56.05
+TXN1268	27/01/2023	Office Chair	Furniture	North	2	155.09	0.1	279.16
+TXN1265	27/01/2023	Printer Paper	Stationery	South	3	30.43	0	91.29
+TXN1276	28/01/2023	Water Bottle	Accessories	South	2	19.92	0	39.84
+TXN1275	28/01/2023	Water Bottle	Accessories	West	1	19.19	0.05	18.23
+TXN1283	28/01/2023	Backpack	Accessories	Central	2	53.06	0	106.12
+TXN1273	28/01/2023	Backpack	Accessories	East	3	54.58	0	163.74
+TXN1272	28/01/2023	Office Chair	Furniture	North	2	152.45	0.15	259.16
+TXN1281	28/01/2023	Printer Paper	Stationery	North	2	28.66	0	57.32
+TXN1271	28/01/2023	Water Bottle	Accessories	West	3	19.28	0	57.84
+TXN1282	28/01/2023	Printer Paper	Stationery	West	4	28.6	0.1	102.96
+TXN1279	28/01/2023	Backpack	Accessories	Central	3	54.95	0.1	148.37
+TXN1280	28/01/2023	Headphones	Electronics	North	3	86.36	0.15	220.22
+TXN1278	28/01/2023	Backpack	Accessories	South	4	54.54	0.1	196.34
+TXN1274	28/01/2023	Printer Paper	Stationery	Central	2	30.46	0.1	54.83
+TXN1277	28/01/2023	Smartphone	Electronics	West	1	295.6	0.1	266.04
+TXN1295	29/01/2023	Backpack	Accessories	South	2	54.37	0.05	103.3
+TXN1287	29/01/2023	Headphones	Electronics	North	3	86.57	0.1	233.74
+TXN1289	29/01/2023	Water Bottle	Accessories	South	4	20.31	0	81.24
+TXN1296	29/01/2023	Printer Paper	Stationery	West	1	30.19	0	30.19
+TXN1284	29/01/2023	Printer Paper	Stationery	South	2	28.78	0.1	51.8
+TXN1294	29/01/2023	Printer Paper	Stationery	West	3	29.76	0	89.28
+TXN1290	29/01/2023	Desk	Furniture	Central	1	230.46	0.15	195.89
+TXN1285	29/01/2023	Backpack	Accessories	East	3	56.39	0	169.17
+TXN1291	29/01/2023	Headphones	Electronics	South	3	91.4	0	274.2
+TXN1286	29/01/2023	Backpack	Accessories	North	3	54.27	0	162.81
+TXN1293	29/01/2023	Backpack	Accessories	East	2	52.52	0	105.04
+TXN1292	29/01/2023	Backpack	Accessories	West	1	55.28	0.05	52.52
+TXN1288	29/01/2023	Headphones	Electronics	South	1	92.91	0	92.91
+TXN1304	30/01/2023	Water Bottle	Accessories	North	1	19.2	0.15	16.32
+TXN1298	30/01/2023	Headphones	Electronics	East	4	89.73	0.15	305.08
+TXN1305	30/01/2023	Smartphone	Electronics	Central	1	288.66	0.05	274.23
+TXN1300	30/01/2023	Headphones	Electronics	North	2	87.43	0.1	157.37
+TXN1302	30/01/2023	Water Bottle	Accessories	North	1	19.72	0	19.72
+TXN1306	30/01/2023	Backpack	Accessories	Central	1	55.14	0.1	49.63
+TXN1301	30/01/2023	Headphones	Electronics	North	1	87.09	0	87.09
+TXN1299	30/01/2023	Water Bottle	Accessories	East	2	19.43	0	38.86
+TXN1297	30/01/2023	Laptop	Electronics	East	1	467.75	0	467.75
+TXN1303	30/01/2023	Office Chair	Furniture	North	2	151.66	0	303.32
+TXN1307	31/01/2023	Desk	Furniture	East	1	229.87	0	229.87
+TXN1308	31/01/2023	Backpack	Accessories	East	4	57.63	0	230.52
+TXN1313	31/01/2023	Water Bottle	Accessories	East	3	19.66	0	58.98
+TXN1314	31/01/2023	Pen Set	Stationery	East	2	15.24	0	30.48
+TXN1309	31/01/2023	Printer Paper	Stationery	South	2	29.64	0.15	50.39
+TXN1312	31/01/2023	Desk	Furniture	Central	1	222.93	0	222.93
+TXN1311	31/01/2023	Smartphone	Electronics	South	2	302.68	0.15	514.56
+TXN1315	31/01/2023	Office Chair	Furniture	North	4	148.18	0	592.72
+TXN1310	31/01/2023	Pen Set	Stationery	North	2	14.73	0	29.46
+TXN1318	01/02/2023	Pen Set	Stationery	Central	1	14.33	0.1	12.9
+TXN1324	01/02/2023	Backpack	Accessories	Central	1	55.2	0	55.2
+TXN1321	01/02/2023	Backpack	Accessories	East	1	54.98	0.15	46.73
+TXN1319	01/02/2023	Desk	Furniture	North	1	221.74	0.15	188.48
+TXN1317	01/02/2023	Backpack	Accessories	Central	3	56.8	0	170.4
+TXN1320	01/02/2023	Laptop	Electronics	North	2	452.82	0.1	815.08
+TXN1322	01/02/2023	Laptop	Electronics	Central	2	442.38	0.1	796.28
+TXN1316	01/02/2023	Backpack	Accessories	East	4	53.43	0	213.72
+TXN1323	01/02/2023	Desk	Furniture	North	2	214.95	0.05	408.4
+TXN1327	02/02/2023	Pen Set	Stationery	South	3	15.16	0.15	38.66
+TXN1331	02/02/2023	Headphones	Electronics	East	3	88.89	0.1	240
+TXN1325	02/02/2023	Water Bottle	Accessories	Central	4	20.19	0	80.76
+TXN1326	02/02/2023	Desk	Furniture	East	1	226.84	0	226.84
+TXN1332	02/02/2023	Laptop	Electronics	North	2	451	0	902
+TXN1328	02/02/2023	Desk	Furniture	West	1	211.6	0	211.6
+TXN1330	02/02/2023	Laptop	Electronics	West	2	448.37	0.05	851.9
+TXN1329	02/02/2023	Backpack	Accessories	Central	1	53.92	0	53.92
+TXN1339	03/02/2023	Smartphone	Electronics	North	1	310.04	0	310.04
+TXN1335	03/02/2023	Pen Set	Stationery	South	4	15.2	0.15	51.68
+TXN1333	03/02/2023	Headphones	Electronics	Central	2	86.37	0	172.74
+TXN1338	03/02/2023	Water Bottle	Accessories	West	2	20.87	0	41.74
+TXN1340	03/02/2023	Printer Paper	Stationery	South	1	30.2	0.15	25.67
+TXN1336	03/02/2023	Printer Paper	Stationery	Central	2	30.1	0	60.2
+TXN1334	03/02/2023	Desk	Furniture	North	1	230.44	0.1	207.4
+TXN1342	03/02/2023	Headphones	Electronics	North	3	94.18	0	282.54
+TXN1337	03/02/2023	Water Bottle	Accessories	South	3	20.41	0	61.23
+TXN1341	03/02/2023	Printer Paper	Stationery	South	4	31.41	0	125.64
+TXN1355	04/02/2023	Printer Paper	Stationery	West	3	29.63	0.15	75.56
+TXN1344	04/02/2023	Water Bottle	Accessories	East	3	20.59	0	61.77
+TXN1345	04/02/2023	Printer Paper	Stationery	West	4	31.42	0.15	106.83
+TXN1357	04/02/2023	Pen Set	Stationery	West	1	14.59	0	14.59
+TXN1353	04/02/2023	Headphones	Electronics	Central	3	91.06	0.1	245.86
+TXN1346	04/02/2023	Printer Paper	Stationery	South	2	29.66	0	59.32
+TXN1343	04/02/2023	Backpack	Accessories	West	3	57.62	0.1	155.57
+TXN1348	04/02/2023	Printer Paper	Stationery	North	1	30.34	0.15	25.79
+TXN1351	04/02/2023	Laptop	Electronics	North	1	430.35	0	430.35
+TXN1350	04/02/2023	Printer Paper	Stationery	North	3	31.43	0.15	80.15
+TXN1354	04/02/2023	Water Bottle	Accessories	North	1	19.18	0	19.18
+TXN1347	04/02/2023	Desk	Furniture	West	1	210.7	0	210.7
+TXN1356	04/02/2023	Printer Paper	Stationery	West	2	29.46	0	58.92
+TXN1352	04/02/2023	Pen Set	Stationery	East	2	15.06	0.15	25.6
+TXN1349	04/02/2023	Headphones	Electronics	North	4	94.28	0	377.12
+TXN1364	05/02/2023	Printer Paper	Stationery	East	2	31.07	0.05	59.03
+TXN1360	05/02/2023	Printer Paper	Stationery	North	3	29.77	0	89.31
+TXN1358	05/02/2023	Water Bottle	Accessories	East	4	19.21	0	76.84
+TXN1372	05/02/2023	Office Chair	Furniture	South	4	144.71	0	578.84
+TXN1367	05/02/2023	Backpack	Accessories	West	2	53.44	0	106.88
+TXN1359	05/02/2023	Printer Paper	Stationery	Central	1	29.81	0.05	28.32
+TXN1370	05/02/2023	Headphones	Electronics	East	2	88.12	0	176.24
+TXN1369	05/02/2023	Water Bottle	Accessories	Central	3	19.22	0	57.66
+TXN1363	05/02/2023	Smartphone	Electronics	West	2	304.45	0.1	548.01
+TXN1371	05/02/2023	Water Bottle	Accessories	North	3	20.42	0.1	55.13
+TXN1361	05/02/2023	Pen Set	Stationery	North	1	15.21	0	15.21
+TXN1368	05/02/2023	Headphones	Electronics	West	2	91.14	0	182.28
+TXN1362	05/02/2023	Water Bottle	Accessories	East	1	20.79	0	20.79
+TXN1365	05/02/2023	Office Chair	Furniture	Central	2	152.58	0.05	289.9
+TXN1366	05/02/2023	Desk	Furniture	East	2	226.87	0	453.74
+TXN1378	06/02/2023	Printer Paper	Stationery	North	3	29.61	0	88.83
+TXN1374	06/02/2023	Printer Paper	Stationery	West	1	30.74	0.1	27.67
+TXN1377	06/02/2023	Backpack	Accessories	North	1	53.75	0	53.75
+TXN1379	06/02/2023	Backpack	Accessories	East	1	54.99	0.15	46.74
+TXN1380	06/02/2023	Water Bottle	Accessories	Central	3	20.23	0.15	51.59
+TXN1381	06/02/2023	Water Bottle	Accessories	North	3	19.92	0.1	53.78
+TXN1375	06/02/2023	Printer Paper	Stationery	South	2	29.22	0.1	52.6
+TXN1373	06/02/2023	Smartphone	Electronics	North	2	306.15	0.05	581.68
+TXN1376	06/02/2023	Headphones	Electronics	North	1	89.03	0	89.03
+TXN1383	07/02/2023	Printer Paper	Stationery	North	3	28.83	0.15	73.52
+TXN1388	07/02/2023	Water Bottle	Accessories	West	4	20.67	0	82.68
+TXN1384	07/02/2023	Backpack	Accessories	Central	1	57.72	0.15	49.06
+TXN1389	07/02/2023	Headphones	Electronics	South	3	92.81	0	278.43
+TXN1387	07/02/2023	Office Chair	Furniture	North	1	145.43	0	145.43
+TXN1391	07/02/2023	Headphones	Electronics	South	4	94.18	0	376.72
+TXN1385	07/02/2023	Water Bottle	Accessories	South	1	19.8	0	19.8
+TXN1390	07/02/2023	Water Bottle	Accessories	West	4	20.36	0	81.44
+TXN1386	07/02/2023	Pen Set	Stationery	East	3	14.77	0.15	37.66
+TXN1382	07/02/2023	Printer Paper	Stationery	East	2	29.72	0	59.44
+TXN1395	08/02/2023	Printer Paper	Stationery	South	3	28.77	0.1	77.68
+TXN1399	08/02/2023	Water Bottle	Accessories	West	1	20.46	0	20.46
+TXN1392	08/02/2023	Printer Paper	Stationery	West	3	30.83	0	92.49
+TXN1398	08/02/2023	Pen Set	Stationery	South	1	14.87	0.15	12.64
+TXN1401	08/02/2023	Printer Paper	Stationery	Central	1	30.89	0	30.89
+TXN1396	08/02/2023	Backpack	Accessories	North	1	53.29	0	53.29
+TXN1393	08/02/2023	Desk	Furniture	North	2	213.69	0.15	363.27
+TXN1397	08/02/2023	Desk	Furniture	East	1	227.96	0	227.96
+TXN1400	08/02/2023	Smartphone	Electronics	North	1	291.02	0	291.02
+TXN1394	08/02/2023	Pen Set	Stationery	North	2	14.31	0.15	24.33
+TXN1402	09/02/2023	Headphones	Electronics	North	3	87.79	0	263.37
+TXN1410	09/02/2023	Backpack	Accessories	North	3	52.9	0	158.7
+TXN1404	09/02/2023	Desk	Furniture	East	1	212.56	0	212.56
+TXN1405	09/02/2023	Backpack	Accessories	Central	1	57.3	0	57.3
+TXN1409	09/02/2023	Water Bottle	Accessories	West	1	20.49	0.05	19.47
+TXN1407	09/02/2023	Office Chair	Furniture	North	1	153.9	0.05	146.21
+TXN1403	09/02/2023	Water Bottle	Accessories	West	3	19.45	0	58.35
+TXN1406	09/02/2023	Backpack	Accessories	Central	1	52.53	0	52.53
+TXN1411	09/02/2023	Printer Paper	Stationery	South	3	30.25	0.05	86.21
+TXN1408	09/02/2023	Backpack	Accessories	South	1	56.26	0.15	47.82
+TXN1413	10/02/2023	Printer Paper	Stationery	Central	4	30.89	0	123.56
+TXN1417	10/02/2023	Desk	Furniture	South	2	228.44	0.15	388.35
+TXN1421	10/02/2023	Water Bottle	Accessories	Central	4	19.79	0	79.16
+TXN1420	10/02/2023	Pen Set	Stationery	South	3	14.33	0	42.99
+TXN1415	10/02/2023	Pen Set	Stationery	North	3	15.73	0	47.19
+TXN1419	10/02/2023	Backpack	Accessories	West	4	53.46	0	213.84
+TXN1412	10/02/2023	Water Bottle	Accessories	West	4	20.47	0	81.88
+TXN1416	10/02/2023	Desk	Furniture	West	2	215.25	0.15	365.93
+TXN1414	10/02/2023	Backpack	Accessories	South	4	57.66	0.15	196.04
+TXN1418	10/02/2023	Backpack	Accessories	West	1	55.58	0	55.58
+TXN1424	11/02/2023	Headphones	Electronics	Central	4	85.74	0	342.96
+TXN1427	11/02/2023	Water Bottle	Accessories	East	4	19.7	0.1	70.92
+TXN1434	11/02/2023	Headphones	Electronics	North	2	87.85	0.1	158.13
+TXN1432	11/02/2023	Pen Set	Stationery	East	2	15.21	0.15	25.86
+TXN1422	11/02/2023	Backpack	Accessories	West	3	57.02	0	171.06
+TXN1433	11/02/2023	Backpack	Accessories	East	2	54.15	0	108.3
+TXN1431	11/02/2023	Headphones	Electronics	West	3	90.72	0.1	244.94
+TXN1423	11/02/2023	Water Bottle	Accessories	West	2	20.06	0	40.12
+TXN1426	11/02/2023	Printer Paper	Stationery	North	1	30.42	0	30.42
+TXN1435	11/02/2023	Headphones	Electronics	West	4	88.47	0.15	300.8
+TXN1430	11/02/2023	Smartphone	Electronics	North	1	314.69	0	314.69
+TXN1428	11/02/2023	Headphones	Electronics	Central	2	93.63	0.15	159.17
+TXN1429	11/02/2023	Office Chair	Furniture	North	4	145.68	0	582.72
+TXN1425	11/02/2023	Backpack	Accessories	East	1	56.34	0.05	53.52
+TXN1440	12/02/2023	Pen Set	Stationery	South	3	14.92	0	44.76
+TXN1444	12/02/2023	Printer Paper	Stationery	West	4	30.31	0.05	115.18
+TXN1438	12/02/2023	Office Chair	Furniture	East	2	151.83	0.05	288.48
+TXN1449	12/02/2023	Pen Set	Stationery	North	4	15.66	0	62.64
+TXN1441	12/02/2023	Smartphone	Electronics	West	2	298.23	0	596.46
+TXN1436	12/02/2023	Smartphone	Electronics	North	2	294.23	0.1	529.61
+TXN1437	12/02/2023	Pen Set	Stationery	East	3	14.69	0.15	37.46
+TXN1445	12/02/2023	Smartphone	Electronics	Central	1	299.45	0.05	284.48
+TXN1446	12/02/2023	Printer Paper	Stationery	East	3	31.39	0	94.17
+TXN1439	12/02/2023	Pen Set	Stationery	West	4	15.29	0	61.16
+TXN1442	12/02/2023	Headphones	Electronics	West	4	90.41	0.1	325.48
+TXN1448	12/02/2023	Printer Paper	Stationery	North	2	30.7	0.1	55.26
+TXN1447	12/02/2023	Headphones	Electronics	North	2	86.36	0	172.72
+TXN1443	12/02/2023	Printer Paper	Stationery	Central	3	30.36	0	91.08
+TXN1456	13/02/2023	Office Chair	Furniture	Central	4	157.28	0	629.12
+TXN1451	13/02/2023	Headphones	Electronics	West	1	90	0.15	76.5
+TXN1455	13/02/2023	Water Bottle	Accessories	West	2	20.06	0	40.12
+TXN1458	13/02/2023	Printer Paper	Stationery	East	1	30.02	0.05	28.52
+TXN1457	13/02/2023	Water Bottle	Accessories	South	3	19.54	0.1	52.76
+TXN1452	13/02/2023	Backpack	Accessories	South	2	53.48	0.15	90.92
+TXN1450	13/02/2023	Office Chair	Furniture	West	2	148.68	0.05	282.49
+TXN1459	13/02/2023	Desk	Furniture	South	2	216.34	0.1	389.41
+TXN1453	13/02/2023	Headphones	Electronics	Central	3	90.74	0	272.22
+TXN1454	13/02/2023	Water Bottle	Accessories	Central	1	20.28	0.05	19.27
+TXN1461	14/02/2023	Backpack	Accessories	South	4	52.37	0.05	199.01
+TXN1469	14/02/2023	Office Chair	Furniture	South	3	143.19	0	429.57
+TXN1464	14/02/2023	Headphones	Electronics	South	3	89.5	0.05	255.07
+TXN1460	14/02/2023	Headphones	Electronics	North	3	89.52	0.15	228.28
+TXN1463	14/02/2023	Smartphone	Electronics	West	2	285.65	0.05	542.73
+TXN1465	14/02/2023	Smartphone	Electronics	North	1	311.79	0.1	280.61
+TXN1467	14/02/2023	Headphones	Electronics	East	4	92.02	0.05	349.68
+TXN1462	14/02/2023	Headphones	Electronics	North	2	87.98	0.05	167.16
+TXN1468	14/02/2023	Water Bottle	Accessories	East	4	19.6	0	78.4
+TXN1466	14/02/2023	Headphones	Electronics	North	3	90.45	0.15	230.65
+TXN1474	15/02/2023	Backpack	Accessories	Central	3	53.36	0.15	136.07
+TXN1471	15/02/2023	Backpack	Accessories	North	3	56.16	0.1	151.63
+TXN1473	15/02/2023	Headphones	Electronics	North	3	89.23	0	267.69
+TXN1476	15/02/2023	Backpack	Accessories	Central	3	57.23	0.15	145.94
+TXN1475	15/02/2023	Laptop	Electronics	North	1	470.34	0.15	399.79
+TXN1479	15/02/2023	Backpack	Accessories	West	3	56.26	0	168.78
+TXN1477	15/02/2023	Printer Paper	Stationery	East	4	31.05	0	124.2
+TXN1470	15/02/2023	Laptop	Electronics	East	1	456.48	0	456.48
+TXN1478	15/02/2023	Pen Set	Stationery	North	2	15.11	0	30.22
+TXN1472	15/02/2023	Printer Paper	Stationery	North	3	29.24	0.05	83.33
+TXN1483	16/02/2023	Desk	Furniture	East	1	214.32	0.15	182.17
+TXN1485	16/02/2023	Headphones	Electronics	South	2	91.57	0	183.14
+TXN1486	16/02/2023	Smartphone	Electronics	South	1	307.61	0	307.61
+TXN1481	16/02/2023	Desk	Furniture	East	2	213.83	0	427.66
+TXN1488	16/02/2023	Printer Paper	Stationery	North	4	30.45	0.15	103.53
+TXN1484	16/02/2023	Water Bottle	Accessories	Central	1	20.39	0	20.39
+TXN1490	16/02/2023	Pen Set	Stationery	North	1	14.68	0	14.68
+TXN1480	16/02/2023	Printer Paper	Stationery	West	3	31.41	0	94.23
+TXN1487	16/02/2023	Office Chair	Furniture	West	1	150.3	0.15	127.76
+TXN1489	16/02/2023	Water Bottle	Accessories	North	3	19.28	0	57.84
+TXN1482	16/02/2023	Water Bottle	Accessories	Central	3	19.43	0.1	52.46
+TXN1491	17/02/2023	Desk	Furniture	North	2	215.15	0.05	408.78
+TXN1494	17/02/2023	Backpack	Accessories	East	1	55.17	0	55.17
+TXN1495	17/02/2023	Laptop	Electronics	South	2	443.02	0.05	841.74
+TXN1493	17/02/2023	Laptop	Electronics	South	1	448.04	0	448.04
+TXN1500	17/02/2023	Water Bottle	Accessories	West	1	19.91	0	19.91
+TXN1492	17/02/2023	Pen Set	Stationery	North	2	15.23	0	30.46
+TXN1496	17/02/2023	Smartphone	Electronics	North	1	313.27	0.1	281.94
+TXN1498	17/02/2023	Pen Set	Stationery	North	2	15.72	0.15	26.72
+TXN1497	17/02/2023	Pen Set	Stationery	West	1	14.68	0.1	13.21
+TXN1501	17/02/2023	Office Chair	Furniture	East	1	157.17	0	157.17
+TXN1499	17/02/2023	Printer Paper	Stationery	South	4	28.94	0.05	109.97
+TXN1503	18/02/2023	Printer Paper	Stationery	Central	1	30.01	0.15	25.51
+TXN1513	18/02/2023	Pen Set	Stationery	Central	1	15.32	0.1	13.79
+TXN1507	18/02/2023	Desk	Furniture	North	2	223.96	0	447.92
+TXN1511	18/02/2023	Laptop	Electronics	North	2	433.08	0	866.16
+TXN1510	18/02/2023	Pen Set	Stationery	South	2	15.6	0	31.2
+TXN1509	18/02/2023	Backpack	Accessories	Central	2	54.24	0	108.48
+TXN1506	18/02/2023	Water Bottle	Accessories	North	1	19.6	0	19.6
+TXN1515	18/02/2023	Headphones	Electronics	Central	2	85.63	0.05	162.7
+TXN1508	18/02/2023	Pen Set	Stationery	South	2	14.78	0	29.56
+TXN1514	18/02/2023	Office Chair	Furniture	East	3	150.29	0	450.87
+TXN1502	18/02/2023	Water Bottle	Accessories	North	4	20.01	0	80.04
+TXN1504	18/02/2023	Headphones	Electronics	South	4	93.24	0.05	354.31
+TXN1512	18/02/2023	Backpack	Accessories	Central	2	56.69	0	113.38
+TXN1516	18/02/2023	Headphones	Electronics	North	2	86.47	0	172.94
+TXN1505	18/02/2023	Office Chair	Furniture	East	2	148.35	0.15	252.19
+TXN1519	19/02/2023	Laptop	Electronics	Central	1	461.55	0	461.55
+TXN1526	19/02/2023	Office Chair	Furniture	South	4	143.14	0	572.56
+TXN1524	19/02/2023	Smartphone	Electronics	West	1	286.03	0.05	271.73
+TXN1527	19/02/2023	Headphones	Electronics	Central	4	89.33	0	357.32
+TXN1531	19/02/2023	Backpack	Accessories	West	4	57.58	0	230.32
+TXN1523	19/02/2023	Water Bottle	Accessories	West	2	20.99	0	41.98
+TXN1518	19/02/2023	Desk	Furniture	North	2	216.21	0	432.42
+TXN1521	19/02/2023	Backpack	Accessories	Central	1	56.89	0.1	51.2
+TXN1517	19/02/2023	Laptop	Electronics	South	1	436.18	0	436.18
+TXN1522	19/02/2023	Printer Paper	Stationery	South	1	30.92	0.1	27.83
+TXN1529	19/02/2023	Printer Paper	Stationery	East	1	29.27	0	29.27
+TXN1525	19/02/2023	Backpack	Accessories	North	4	56.96	0.05	216.45
+TXN1520	19/02/2023	Water Bottle	Accessories	South	1	20.06	0.05	19.06
+TXN1528	19/02/2023	Office Chair	Furniture	South	4	148.89	0.15	506.23
+TXN1530	19/02/2023	Headphones	Electronics	South	4	90.59	0	362.36
+TXN1536	20/02/2023	Headphones	Electronics	Central	1	86.57	0.05	82.24
+TXN1540	20/02/2023	Water Bottle	Accessories	Central	4	19.23	0	76.92
+TXN1539	20/02/2023	Water Bottle	Accessories	East	4	20.75	0	83
+TXN1533	20/02/2023	Backpack	Accessories	Central	2	53.7	0.05	102.03
+TXN1535	20/02/2023	Pen Set	Stationery	East	1	14.35	0.1	12.91
+TXN1542	20/02/2023	Desk	Furniture	South	1	228.76	0	228.76
+TXN1541	20/02/2023	Water Bottle	Accessories	East	2	19.71	0	39.42
+TXN1532	20/02/2023	Backpack	Accessories	North	1	55.15	0	55.15
+TXN1537	20/02/2023	Water Bottle	Accessories	East	2	19.65	0	39.3
+TXN1538	20/02/2023	Backpack	Accessories	North	2	53.11	0	106.22
+TXN1534	20/02/2023	Smartphone	Electronics	North	1	306.63	0.05	291.3
+TXN1553	21/02/2023	Printer Paper	Stationery	East	1	31.11	0.1	28
+TXN1547	21/02/2023	Headphones	Electronics	South	3	87.27	0	261.81
+TXN1552	21/02/2023	Smartphone	Electronics	West	1	288.8	0.05	274.36
+TXN1544	21/02/2023	Pen Set	Stationery	West	2	15.67	0	31.34
+TXN1549	21/02/2023	Backpack	Accessories	Central	1	55.48	0	55.48
+TXN1551	21/02/2023	Printer Paper	Stationery	East	4	31.46	0.1	113.26
+TXN1546	21/02/2023	Printer Paper	Stationery	South	2	28.68	0	57.36
+TXN1545	21/02/2023	Water Bottle	Accessories	South	2	19.64	0	39.28
+TXN1543	21/02/2023	Smartphone	Electronics	South	2	304.61	0	609.22
+TXN1550	21/02/2023	Printer Paper	Stationery	North	1	30.88	0.15	26.25
+TXN1548	21/02/2023	Pen Set	Stationery	East	2	14.77	0	29.54
+TXN1554	22/02/2023	Backpack	Accessories	North	3	57.03	0.15	145.43
+TXN1561	22/02/2023	Water Bottle	Accessories	East	2	19.94	0.1	35.89
+TXN1562	22/02/2023	Printer Paper	Stationery	South	1	30.07	0	30.07
+TXN1557	22/02/2023	Headphones	Electronics	West	3	93.49	0	280.47
+TXN1560	22/02/2023	Backpack	Accessories	West	3	52.28	0	156.84
+TXN1556	22/02/2023	Printer Paper	Stationery	West	1	29.52	0	29.52
+TXN1563	22/02/2023	Pen Set	Stationery	North	3	15.74	0.15	40.14
+TXN1555	22/02/2023	Printer Paper	Stationery	East	3	31.08	0	93.24
+TXN1558	22/02/2023	Headphones	Electronics	West	2	94.25	0	188.5
+TXN1559	22/02/2023	Pen Set	Stationery	North	1	14.7	0	14.7
+TXN1572	23/02/2023	Smartphone	Electronics	North	2	310.07	0.15	527.12
+TXN1571	23/02/2023	Smartphone	Electronics	West	2	293.64	0.1	528.55
+TXN1573	23/02/2023	Laptop	Electronics	North	2	465.91	0	931.82
+TXN1567	23/02/2023	Water Bottle	Accessories	East	2	19.4	0	38.8
+TXN1569	23/02/2023	Headphones	Electronics	Central	3	91.71	0	275.13
+TXN1565	23/02/2023	Backpack	Accessories	North	4	57.31	0	229.24
+TXN1564	23/02/2023	Headphones	Electronics	North	4	88.09	0	352.36
+TXN1568	23/02/2023	Printer Paper	Stationery	West	4	29.63	0.05	112.59
+TXN1570	23/02/2023	Desk	Furniture	North	2	210.52	0.05	399.99
+TXN1574	23/02/2023	Printer Paper	Stationery	East	4	30.89	0	123.56
+TXN1566	23/02/2023	Smartphone	Electronics	South	1	287.41	0	287.41
+TXN1581	24/02/2023	Headphones	Electronics	West	3	85.93	0	257.79
+TXN1586	24/02/2023	Backpack	Accessories	North	2	56.68	0.15	96.36
+TXN1580	24/02/2023	Headphones	Electronics	North	2	93.13	0.1	167.63
+TXN1577	24/02/2023	Headphones	Electronics	East	4	88.8	0	355.2
+TXN1576	24/02/2023	Printer Paper	Stationery	West	1	30.5	0.15	25.93
+TXN1582	24/02/2023	Water Bottle	Accessories	North	2	20.5	0	41
+TXN1584	24/02/2023	Pen Set	Stationery	North	1	14.64	0.15	12.44
+TXN1578	24/02/2023	Printer Paper	Stationery	South	2	29.42	0	58.84
+TXN1579	24/02/2023	Desk	Furniture	East	1	228.19	0	228.19
+TXN1585	24/02/2023	Smartphone	Electronics	West	1	302.89	0.05	287.75
+TXN1583	24/02/2023	Pen Set	Stationery	North	2	14.79	0.1	26.62
+TXN1575	24/02/2023	Water Bottle	Accessories	North	2	20.66	0	41.32
+TXN1593	25/02/2023	Backpack	Accessories	West	4	54.02	0.05	205.28
+TXN1595	25/02/2023	Backpack	Accessories	North	2	53.13	0.15	90.32
+TXN1599	25/02/2023	Printer Paper	Stationery	South	1	28.8	0.05	27.36
+TXN1592	25/02/2023	Pen Set	Stationery	West	4	15.39	0.05	58.48
+TXN1602	25/02/2023	Pen Set	Stationery	South	4	14.76	0.05	56.09
+TXN1588	25/02/2023	Water Bottle	Accessories	East	2	20.07	0	40.14
+TXN1601	25/02/2023	Pen Set	Stationery	West	1	15.35	0	15.35
+TXN1587	25/02/2023	Office Chair	Furniture	West	4	156.48	0	625.92
+TXN1596	25/02/2023	Printer Paper	Stationery	North	2	30.21	0	60.42
+TXN1594	25/02/2023	Water Bottle	Accessories	South	1	20.33	0.05	19.31
+TXN1589	25/02/2023	Smartphone	Electronics	North	1	300.83	0	300.83
+TXN1598	25/02/2023	Backpack	Accessories	East	1	56.6	0.05	53.77
+TXN1590	25/02/2023	Water Bottle	Accessories	West	4	19.4	0	77.6
+TXN1600	25/02/2023	Printer Paper	Stationery	North	4	30.54	0.15	103.84
+TXN1591	25/02/2023	Smartphone	Electronics	North	1	306.77	0.15	260.75
+TXN1597	25/02/2023	Desk	Furniture	West	2	221.87	0.05	421.55
+TXN1610	26/02/2023	Laptop	Electronics	West	2	470.27	0.1	846.49
+TXN1611	26/02/2023	Office Chair	Furniture	Central	4	156.61	0	626.44
+TXN1609	26/02/2023	Printer Paper	Stationery	East	3	30.96	0	92.88
+TXN1603	26/02/2023	Backpack	Accessories	North	2	54.28	0.05	103.13
+TXN1607	26/02/2023	Smartphone	Electronics	South	2	313.77	0.05	596.16
+TXN1614	26/02/2023	Headphones	Electronics	North	1	90.44	0	90.44
+TXN1615	26/02/2023	Headphones	Electronics	East	2	88.81	0.05	168.74
+TXN1608	26/02/2023	Smartphone	Electronics	East	2	311.51	0.15	529.57
+TXN1606	26/02/2023	Backpack	Accessories	West	4	56.5	0	226
+TXN1612	26/02/2023	Printer Paper	Stationery	South	4	29.89	0.05	113.58
+TXN1613	26/02/2023	Smartphone	Electronics	West	1	291.98	0	291.98
+TXN1604	26/02/2023	Headphones	Electronics	Central	2	88.86	0	177.72
+TXN1605	26/02/2023	Printer Paper	Stationery	South	4	28.82	0	115.28
+TXN1622	27/02/2023	Office Chair	Furniture	East	3	149.99	0.05	427.47
+TXN1623	27/02/2023	Water Bottle	Accessories	North	2	20.39	0	40.78
+TXN1618	27/02/2023	Laptop	Electronics	West	1	453.85	0.15	385.77
+TXN1621	27/02/2023	Desk	Furniture	South	1	212.8	0.15	180.88
+TXN1616	27/02/2023	Headphones	Electronics	West	4	93.62	0.15	318.31
+TXN1626	27/02/2023	Desk	Furniture	West	1	211.2	0	211.2
+TXN1620	27/02/2023	Printer Paper	Stationery	East	3	29.25	0	87.75
+TXN1624	27/02/2023	Headphones	Electronics	East	2	85.78	0	171.56
+TXN1625	27/02/2023	Pen Set	Stationery	East	1	15.02	0.1	13.52
+TXN1619	27/02/2023	Desk	Furniture	East	1	220.21	0	220.21
+TXN1617	27/02/2023	Pen Set	Stationery	West	3	15.21	0.05	43.35
+TXN1629	28/02/2023	Smartphone	Electronics	West	1	285.78	0.15	242.91
+TXN1628	28/02/2023	Printer Paper	Stationery	Central	1	30.59	0.05	29.06
+TXN1630	28/02/2023	Smartphone	Electronics	South	2	285.12	0	570.24
+TXN1631	28/02/2023	Office Chair	Furniture	South	1	149.27	0	149.27
+TXN1634	28/02/2023	Water Bottle	Accessories	West	3	19.82	0.15	50.54
+TXN1637	28/02/2023	Water Bottle	Accessories	West	4	19.99	0.1	71.96
+TXN1627	28/02/2023	Laptop	Electronics	West	2	461.3	0.05	876.47
+TXN1632	28/02/2023	Backpack	Accessories	North	3	55.84	0.15	142.39
+TXN1635	28/02/2023	Printer Paper	Stationery	North	3	28.59	0.1	77.19
+TXN1633	28/02/2023	Office Chair	Furniture	South	3	143.83	0.15	366.77
+TXN1636	28/02/2023	Pen Set	Stationery	South	4	15.25	0	61
+TXN1638	28/02/2023	Office Chair	Furniture	Central	1	145.46	0	145.46
+TXN1639	01/03/2023	Water Bottle	Accessories	North	2	20.92	0.15	35.56
+TXN1641	01/03/2023	Office Chair	Furniture	North	1	146.12	0	146.12
+TXN1646	01/03/2023	Backpack	Accessories	Central	1	56.9	0.05	54.05
+TXN1644	01/03/2023	Headphones	Electronics	East	3	92.34	0.1	249.32
+TXN1650	01/03/2023	Headphones	Electronics	Central	1	92.75	0	92.75
+TXN1648	01/03/2023	Water Bottle	Accessories	North	1	20.13	0	20.13
+TXN1649	01/03/2023	Headphones	Electronics	South	2	89.07	0.15	151.42
+TXN1640	01/03/2023	Water Bottle	Accessories	East	4	19.84	0.05	75.39
+TXN1643	01/03/2023	Printer Paper	Stationery	West	1	29.13	0	29.13
+TXN1642	01/03/2023	Printer Paper	Stationery	East	4	30.39	0.15	103.33
+TXN1645	01/03/2023	Water Bottle	Accessories	West	2	20.76	0	41.52
+TXN1647	01/03/2023	Printer Paper	Stationery	East	1	30.73	0.1	27.66
+TXN1658	02/03/2023	Backpack	Accessories	Central	3	54.41	0	163.23
+TXN1660	02/03/2023	Backpack	Accessories	North	1	57.16	0	57.16
+TXN1662	02/03/2023	Headphones	Electronics	North	4	93.25	0	373
+TXN1652	02/03/2023	Desk	Furniture	East	1	221.8	0	221.8
+TXN1661	02/03/2023	Headphones	Electronics	North	3	94.25	0.05	268.61
+TXN1659	02/03/2023	Pen Set	Stationery	West	3	14.83	0.05	42.27
+TXN1656	02/03/2023	Headphones	Electronics	South	2	94.04	0.05	178.68
+TXN1655	02/03/2023	Office Chair	Furniture	West	4	146.08	0.1	525.89
+TXN1654	02/03/2023	Backpack	Accessories	East	3	53.09	0.15	135.38
+TXN1653	02/03/2023	Printer Paper	Stationery	South	4	30.74	0.1	110.66
+TXN1651	02/03/2023	Pen Set	Stationery	South	2	15.17	0	30.34
+TXN1657	02/03/2023	Water Bottle	Accessories	North	1	20.75	0.15	17.64
+TXN1665	03/03/2023	Backpack	Accessories	South	4	53	0.1	190.8
+TXN1671	03/03/2023	Laptop	Electronics	West	2	460.08	0	920.16
+TXN1663	03/03/2023	Water Bottle	Accessories	East	2	20.11	0	40.22
+TXN1673	03/03/2023	Pen Set	Stationery	West	3	15.04	0.1	40.61
+TXN1672	03/03/2023	Smartphone	Electronics	Central	2	308.93	0.15	525.18
+TXN1670	03/03/2023	Backpack	Accessories	East	1	53.28	0	53.28
+TXN1667	03/03/2023	Office Chair	Furniture	North	3	149.4	0	448.2
+TXN1674	03/03/2023	Water Bottle	Accessories	North	3	19.63	0	58.89
+TXN1664	03/03/2023	Backpack	Accessories	North	2	54.51	0	109.02
+TXN1669	03/03/2023	Backpack	Accessories	South	3	56.46	0	169.38
+TXN1668	03/03/2023	Printer Paper	Stationery	North	2	30.23	0.1	54.41
+TXN1666	03/03/2023	Water Bottle	Accessories	East	4	19.6	0	78.4
+TXN1675	04/03/2023	Printer Paper	Stationery	Central	1	31.02	0.1	27.92
+TXN1690	04/03/2023	Printer Paper	Stationery	West	1	30.94	0	30.94
+TXN1684	04/03/2023	Smartphone	Electronics	North	1	288.57	0.05	274.14
+TXN1685	04/03/2023	Office Chair	Furniture	North	3	145.26	0.1	392.2
+TXN1692	04/03/2023	Pen Set	Stationery	South	2	15.22	0.05	28.92
+TXN1680	04/03/2023	Pen Set	Stationery	South	3	15.65	0.05	44.6
+TXN1691	04/03/2023	Headphones	Electronics	West	4	89.67	0	358.68
+TXN1678	04/03/2023	Headphones	Electronics	North	3	86.55	0	259.65
+TXN1681	04/03/2023	Backpack	Accessories	Central	3	56.32	0	168.96
+TXN1683	04/03/2023	Pen Set	Stationery	East	4	15.75	0.1	56.7
+TXN1687	04/03/2023	Laptop	Electronics	East	1	440.21	0.05	418.2
+TXN1689	04/03/2023	Smartphone	Electronics	West	2	314.42	0.15	534.51
+TXN1676	04/03/2023	Headphones	Electronics	North	2	93.49	0.1	168.28
+TXN1679	04/03/2023	Pen Set	Stationery	West	1	14.57	0	14.57
+TXN1688	04/03/2023	Printer Paper	Stationery	West	1	29.36	0.15	24.96
+TXN1677	04/03/2023	Backpack	Accessories	East	3	55.82	0	167.46
+TXN1686	04/03/2023	Laptop	Electronics	North	1	458.71	0.15	389.9
+TXN1682	04/03/2023	Backpack	Accessories	South	1	55.7	0.05	52.91
+TXN1695	05/03/2023	Smartphone	Electronics	South	1	296.29	0.1	266.66
+TXN1701	05/03/2023	Printer Paper	Stationery	North	1	29.25	0	29.25
+TXN1711	05/03/2023	Headphones	Electronics	East	3	91.56	0.05	260.95
+TXN1704	05/03/2023	Office Chair	Furniture	North	2	145.83	0.05	277.08
+TXN1712	05/03/2023	Headphones	Electronics	North	4	93.19	0	372.76
+TXN1694	05/03/2023	Headphones	Electronics	North	4	90.79	0	363.16
+TXN1697	05/03/2023	Water Bottle	Accessories	West	2	19.86	0.05	37.73
+TXN1698	05/03/2023	Printer Paper	Stationery	South	4	30.08	0	120.32
+TXN1705	05/03/2023	Water Bottle	Accessories	North	2	19.25	0	38.5
+TXN1706	05/03/2023	Water Bottle	Accessories	Central	3	20.22	0.05	57.63
+TXN1700	05/03/2023	Printer Paper	Stationery	East	2	28.61	0.15	48.64
+TXN1710	05/03/2023	Smartphone	Electronics	West	1	302.03	0.15	256.73
+TXN1709	05/03/2023	Water Bottle	Accessories	Central	2	20.3	0	40.6
+TXN1702	05/03/2023	Headphones	Electronics	East	1	89.11	0	89.11
+TXN1693	05/03/2023	Laptop	Electronics	South	1	446.98	0.1	402.28
+TXN1699	05/03/2023	Smartphone	Electronics	South	1	288.72	0	288.72
+TXN1708	05/03/2023	Printer Paper	Stationery	North	1	31.29	0	31.29
+TXN1703	05/03/2023	Laptop	Electronics	East	1	431.71	0	431.71
+TXN1707	05/03/2023	Smartphone	Electronics	East	1	291.12	0.15	247.45
+TXN1696	05/03/2023	Printer Paper	Stationery	West	2	29.46	0.1	53.03
+TXN1716	06/03/2023	Pen Set	Stationery	East	3	15.25	0.15	38.89
+TXN1714	06/03/2023	Smartphone	Electronics	East	1	305.52	0.05	290.24
+TXN1717	06/03/2023	Office Chair	Furniture	North	3	146.17	0	438.51
+TXN1718	06/03/2023	Water Bottle	Accessories	North	4	20.63	0	82.52
+TXN1713	06/03/2023	Water Bottle	Accessories	West	3	19.32	0	57.96
+TXN1720	06/03/2023	Water Bottle	Accessories	West	3	19.31	0.15	49.24
+TXN1722	06/03/2023	Headphones	Electronics	Central	3	87.73	0	263.19
+TXN1715	06/03/2023	Desk	Furniture	North	1	222.07	0.1	199.86
+TXN1723	06/03/2023	Backpack	Accessories	East	3	52.8	0.15	134.64
+TXN1721	06/03/2023	Headphones	Electronics	South	2	90.16	0.15	153.27
+TXN1719	06/03/2023	Office Chair	Furniture	West	3	147.37	0	442.11
+TXN1735	07/03/2023	Backpack	Accessories	West	2	57.14	0	114.28
+TXN1733	07/03/2023	Pen Set	Stationery	North	2	15.37	0	30.74
+TXN1730	07/03/2023	Pen Set	Stationery	South	3	15.48	0.1	41.8
+TXN1731	07/03/2023	Printer Paper	Stationery	West	4	29.92	0.05	113.7
+TXN1732	07/03/2023	Headphones	Electronics	West	4	86.38	0.15	293.69
+TXN1727	07/03/2023	Backpack	Accessories	East	1	57.06	0.1	51.35
+TXN1729	07/03/2023	Headphones	Electronics	North	2	90.44	0	180.88
+TXN1728	07/03/2023	Office Chair	Furniture	North	3	151.59	0	454.77
+TXN1726	07/03/2023	Water Bottle	Accessories	West	4	20.64	0.05	78.43
+TXN1725	07/03/2023	Headphones	Electronics	North	2	91.36	0	182.72
+TXN1734	07/03/2023	Backpack	Accessories	North	3	52.86	0.05	150.65
+TXN1724	07/03/2023	Printer Paper	Stationery	East	2	29.35	0	58.7
+TXN1742	08/03/2023	Headphones	Electronics	Central	3	88.92	0.05	253.42
+TXN1738	08/03/2023	Printer Paper	Stationery	North	1	29.44	0.05	27.97
+TXN1739	08/03/2023	Headphones	Electronics	South	4	90.92	0.15	309.13
+TXN1743	08/03/2023	Backpack	Accessories	Central	2	56.37	0	112.74
+TXN1741	08/03/2023	Water Bottle	Accessories	North	1	20.24	0.1	18.22
+TXN1737	08/03/2023	Office Chair	Furniture	West	2	148.4	0	296.8
+TXN1740	08/03/2023	Backpack	Accessories	North	2	53.65	0	107.3
+TXN1748	08/03/2023	Headphones	Electronics	South	1	88.87	0.15	75.54
+TXN1744	08/03/2023	Printer Paper	Stationery	North	2	31.26	0.05	59.39
+TXN1747	08/03/2023	Headphones	Electronics	South	3	90.88	0	272.64
+TXN1746	08/03/2023	Pen Set	Stationery	North	4	15.18	0	60.72
+TXN1736	08/03/2023	Office Chair	Furniture	North	4	156.72	0.1	564.19
+TXN1745	08/03/2023	Water Bottle	Accessories	West	2	20.3	0	40.6
+TXN1756	09/03/2023	Laptop	Electronics	South	1	445.06	0	445.06
+TXN1757	09/03/2023	Headphones	Electronics	Central	4	87.26	0.15	296.68
+TXN1751	09/03/2023	Water Bottle	Accessories	East	3	20.22	0	60.66
+TXN1752	09/03/2023	Headphones	Electronics	West	1	86.53	0	86.53
+TXN1754	09/03/2023	Printer Paper	Stationery	Central	3	31.26	0.05	89.09
+TXN1759	09/03/2023	Pen Set	Stationery	South	2	15.66	0	31.32
+TXN1758	09/03/2023	Backpack	Accessories	South	2	55.97	0.05	106.34
+TXN1750	09/03/2023	Water Bottle	Accessories	Central	1	20.45	0.1	18.41
+TXN1755	09/03/2023	Water Bottle	Accessories	East	1	20.93	0.15	17.79
+TXN1749	09/03/2023	Headphones	Electronics	North	1	89.54	0.1	80.59
+TXN1753	09/03/2023	Backpack	Accessories	North	4	53.99	0.1	194.36
+TXN1762	10/03/2023	Headphones	Electronics	East	4	88.48	0	353.92
+TXN1765	10/03/2023	Smartphone	Electronics	West	2	306.64	0	613.28
+TXN1761	10/03/2023	Headphones	Electronics	South	4	87.94	0.1	316.58
+TXN1770	10/03/2023	Office Chair	Furniture	South	4	145.29	0	581.16
+TXN1766	10/03/2023	Backpack	Accessories	South	3	56.52	0	169.56
+TXN1769	10/03/2023	Water Bottle	Accessories	East	2	19	0	38
+TXN1760	10/03/2023	Backpack	Accessories	East	3	54.73	0.05	155.98
+TXN1772	10/03/2023	Water Bottle	Accessories	West	1	19.29	0.15	16.4
+TXN1767	10/03/2023	Office Chair	Furniture	North	3	157.44	0	472.32
+TXN1768	10/03/2023	Backpack	Accessories	West	2	56.29	0.05	106.95
+TXN1771	10/03/2023	Smartphone	Electronics	South	2	312.48	0	624.96
+TXN1763	10/03/2023	Headphones	Electronics	North	3	90.38	0	271.14
+TXN1764	10/03/2023	Pen Set	Stationery	Central	3	14.89	0.15	37.97
+TXN1773	11/03/2023	Pen Set	Stationery	North	1	14.53	0	14.53
+TXN1786	11/03/2023	Laptop	Electronics	South	2	442.38	0	884.76
+TXN1778	11/03/2023	Smartphone	Electronics	North	2	310.92	0.1	559.66
+TXN1780	11/03/2023	Pen Set	Stationery	East	1	14.83	0.05	14.09
+TXN1775	11/03/2023	Water Bottle	Accessories	Central	2	19.08	0.1	34.34
+TXN1788	11/03/2023	Backpack	Accessories	East	4	53.32	0.1	191.95
+TXN1783	11/03/2023	Desk	Furniture	North	1	210.38	0	210.38
+TXN1779	11/03/2023	Office Chair	Furniture	East	2	142.9	0	285.8
+TXN1790	11/03/2023	Smartphone	Electronics	Central	2	288.98	0	577.96
+TXN1777	11/03/2023	Headphones	Electronics	North	4	87.06	0	348.24
+TXN1789	11/03/2023	Printer Paper	Stationery	East	1	28.84	0	28.84
+TXN1785	11/03/2023	Pen Set	Stationery	South	3	15.37	0	46.11
+TXN1782	11/03/2023	Water Bottle	Accessories	Central	4	20.3	0.15	69.02
+TXN1791	11/03/2023	Office Chair	Furniture	Central	1	147.33	0	147.33
+TXN1774	11/03/2023	Pen Set	Stationery	West	2	15.26	0.15	25.94
+TXN1776	11/03/2023	Desk	Furniture	Central	2	220.16	0	440.32
+TXN1781	11/03/2023	Smartphone	Electronics	West	2	312.95	0	625.9
+TXN1784	11/03/2023	Smartphone	Electronics	West	2	306.04	0	612.08
+TXN1787	11/03/2023	Backpack	Accessories	North	1	56.08	0.1	50.47
+TXN1802	12/03/2023	Office Chair	Furniture	East	1	145.36	0	145.36
+TXN1805	12/03/2023	Printer Paper	Stationery	East	1	30.77	0.15	26.15
+TXN1806	12/03/2023	Printer Paper	Stationery	South	1	31.33	0	31.33
+TXN1804	12/03/2023	Office Chair	Furniture	East	3	151.19	0.1	408.21
+TXN1794	12/03/2023	Water Bottle	Accessories	East	3	19.54	0.05	55.69
+TXN1797	12/03/2023	Smartphone	Electronics	North	1	295.16	0	295.16
+TXN1799	12/03/2023	Water Bottle	Accessories	West	2	20.28	0.05	38.53
+TXN1803	12/03/2023	Pen Set	Stationery	South	1	14.39	0	14.39
+TXN1807	12/03/2023	Headphones	Electronics	North	4	91.97	0.15	312.7
+TXN1796	12/03/2023	Pen Set	Stationery	West	1	14.37	0	14.37
+TXN1801	12/03/2023	Office Chair	Furniture	North	4	152.47	0	609.88
+TXN1800	12/03/2023	Backpack	Accessories	East	3	54.91	0.1	148.26
+TXN1798	12/03/2023	Headphones	Electronics	North	4	94.06	0.1	338.62
+TXN1792	12/03/2023	Water Bottle	Accessories	East	4	19.23	0	76.92
+TXN1795	12/03/2023	Laptop	Electronics	South	1	432.06	0.1	388.85
+TXN1793	12/03/2023	Office Chair	Furniture	East	2	155.69	0.1	280.24
+TXN1817	13/03/2023	Smartphone	Electronics	West	2	305.16	0.05	579.8
+TXN1808	13/03/2023	Laptop	Electronics	Central	1	430.72	0.05	409.18
+TXN1816	13/03/2023	Printer Paper	Stationery	North	1	30.97	0	30.97
+TXN1814	13/03/2023	Office Chair	Furniture	South	3	146.14	0	438.42
+TXN1813	13/03/2023	Backpack	Accessories	Central	4	53.48	0.05	203.22
+TXN1811	13/03/2023	Office Chair	Furniture	West	2	149.01	0	298.02
+TXN1810	13/03/2023	Smartphone	Electronics	North	1	288.05	0.1	259.25
+TXN1812	13/03/2023	Backpack	Accessories	South	3	56.91	0.05	162.19
+TXN1809	13/03/2023	Water Bottle	Accessories	South	3	20.23	0.05	57.66
+TXN1815	13/03/2023	Office Chair	Furniture	South	2	155.75	0.05	295.93
+TXN1830	14/03/2023	Smartphone	Electronics	East	2	305.76	0	611.52
+TXN1827	14/03/2023	Headphones	Electronics	Central	3	90.44	0.1	244.19
+TXN1826	14/03/2023	Office Chair	Furniture	East	1	156.34	0.15	132.89
+TXN1825	14/03/2023	Laptop	Electronics	Central	2	447.97	0.15	761.55
+TXN1823	14/03/2023	Headphones	Electronics	North	2	93.53	0	187.06
+TXN1828	14/03/2023	Printer Paper	Stationery	West	1	28.91	0	28.91
+TXN1820	14/03/2023	Pen Set	Stationery	West	4	15.27	0	61.08
+TXN1829	14/03/2023	Water Bottle	Accessories	Central	3	20.48	0	61.44
+TXN1821	14/03/2023	Office Chair	Furniture	East	1	151.28	0	151.28
+TXN1819	14/03/2023	Laptop	Electronics	South	1	449.8	0	449.8
+TXN1822	14/03/2023	Office Chair	Furniture	East	3	152.91	0	458.73
+TXN1824	14/03/2023	Water Bottle	Accessories	South	1	20.01	0	20.01
+TXN1818	14/03/2023	Backpack	Accessories	North	2	52.43	0	104.86
+TXN1833	15/03/2023	Smartphone	Electronics	East	2	289.02	0.05	549.14
+TXN1843	15/03/2023	Backpack	Accessories	North	1	55.33	0.1	49.8
+TXN1835	15/03/2023	Backpack	Accessories	Central	3	56.93	0	170.79
+TXN1842	15/03/2023	Office Chair	Furniture	South	1	153.85	0.1	138.47
+TXN1837	15/03/2023	Printer Paper	Stationery	Central	3	31.14	0	93.42
+TXN1838	15/03/2023	Backpack	Accessories	Central	3	55.32	0.05	157.66
+TXN1831	15/03/2023	Backpack	Accessories	Central	2	57.24	0.05	108.76
+TXN1840	15/03/2023	Office Chair	Furniture	South	2	151.44	0	302.88
+TXN1836	15/03/2023	Office Chair	Furniture	North	2	148.54	0.05	282.23
+TXN1841	15/03/2023	Headphones	Electronics	Central	1	88.78	0	88.78
+TXN1832	15/03/2023	Backpack	Accessories	East	2	53.63	0.05	101.9
+TXN1834	15/03/2023	Smartphone	Electronics	East	1	291.96	0	291.96
+TXN1839	15/03/2023	Headphones	Electronics	South	3	90.56	0	271.68
+TXN1852	16/03/2023	Pen Set	Stationery	East	2	14.56	0.1	26.21
+TXN1845	16/03/2023	Laptop	Electronics	West	1	447.8	0.1	403.02
+TXN1849	16/03/2023	Printer Paper	Stationery	Central	3	30.98	0	92.94
+TXN1854	16/03/2023	Smartphone	Electronics	West	2	306.51	0.1	551.72
+TXN1853	16/03/2023	Pen Set	Stationery	East	4	15.53	0	62.12
+TXN1848	16/03/2023	Printer Paper	Stationery	South	3	30.16	0	90.48
+TXN1847	16/03/2023	Pen Set	Stationery	Central	2	14.72	0	29.44
+TXN1846	16/03/2023	Laptop	Electronics	West	1	461.31	0	461.31
+TXN1851	16/03/2023	Backpack	Accessories	West	4	56.1	0.05	213.18
+TXN1850	16/03/2023	Water Bottle	Accessories	West	2	19.88	0.05	37.77
+TXN1844	16/03/2023	Water Bottle	Accessories	Central	3	20.88	0.1	56.38
+TXN1859	17/03/2023	Backpack	Accessories	East	4	53.2	0.05	202.16
+TXN1867	17/03/2023	Water Bottle	Accessories	Central	1	20.7	0	20.7
+TXN1858	17/03/2023	Backpack	Accessories	Central	1	57.59	0.15	48.95
+TXN1855	17/03/2023	Water Bottle	Accessories	North	4	20.14	0	80.56
+TXN1856	17/03/2023	Pen Set	Stationery	East	4	15.1	0.1	54.36
+TXN1857	17/03/2023	Backpack	Accessories	Central	3	53.78	0.1	145.21
+TXN1863	17/03/2023	Laptop	Electronics	West	1	434.9	0	434.9
+TXN1865	17/03/2023	Office Chair	Furniture	Central	2	150.66	0.15	256.12
+TXN1860	17/03/2023	Backpack	Accessories	North	3	57.03	0.05	162.54
+TXN1866	17/03/2023	Headphones	Electronics	East	1	89.74	0	89.74
+TXN1864	17/03/2023	Backpack	Accessories	North	3	55.51	0	166.53
+TXN1862	17/03/2023	Headphones	Electronics	North	2	89.86	0.15	152.76
+TXN1861	17/03/2023	Desk	Furniture	North	2	218.51	0.05	415.17
+TXN1878	18/03/2023	Backpack	Accessories	Central	2	52.49	0	104.98
+TXN1873	18/03/2023	Office Chair	Furniture	South	4	147.33	0	589.32
+TXN1871	18/03/2023	Water Bottle	Accessories	East	2	20.72	0.1	37.3
+TXN1874	18/03/2023	Backpack	Accessories	North	2	56.35	0	112.7
+TXN1885	18/03/2023	Pen Set	Stationery	West	1	14.93	0	14.93
+TXN1870	18/03/2023	Backpack	Accessories	North	3	57.22	0.05	163.08
+TXN1875	18/03/2023	Backpack	Accessories	West	3	54.46	0.1	147.04
+TXN1877	18/03/2023	Backpack	Accessories	South	2	56.67	0	113.34
+TXN1868	18/03/2023	Office Chair	Furniture	West	1	146.89	0.05	139.55
+TXN1882	18/03/2023	Headphones	Electronics	South	2	91.4	0	182.8
+TXN1886	18/03/2023	Pen Set	Stationery	West	2	15.58	0.05	29.6
+TXN1884	18/03/2023	Desk	Furniture	Central	1	216.05	0	216.05
+TXN1876	18/03/2023	Water Bottle	Accessories	East	4	19.78	0.1	71.21
+TXN1879	18/03/2023	Water Bottle	Accessories	South	3	20.9	0.15	53.29
+TXN1880	18/03/2023	Office Chair	Furniture	North	2	150.02	0	300.04
+TXN1881	18/03/2023	Water Bottle	Accessories	North	4	19.29	0	77.16
+TXN1883	18/03/2023	Pen Set	Stationery	West	1	15.15	0.15	12.88
+TXN1872	18/03/2023	Backpack	Accessories	North	1	56.44	0	56.44
+TXN1869	18/03/2023	Printer Paper	Stationery	East	3	30.37	0.15	77.44
+TXN1903	19/03/2023	Printer Paper	Stationery	South	1	29.77	0.1	26.79
+TXN1894	19/03/2023	Desk	Furniture	North	2	210.26	0.15	357.44
+TXN1890	19/03/2023	Laptop	Electronics	North	1	435.44	0.1	391.9
+TXN1902	19/03/2023	Desk	Furniture	North	2	222.21	0	444.42
+TXN1900	19/03/2023	Headphones	Electronics	North	4	89.88	0	359.52
+TXN1896	19/03/2023	Desk	Furniture	South	1	211.83	0	211.83
+TXN1901	19/03/2023	Smartphone	Electronics	East	2	313.57	0	627.14
+TXN1892	19/03/2023	Water Bottle	Accessories	South	4	19.42	0	77.68
+TXN1898	19/03/2023	Office Chair	Furniture	South	4	155.67	0.1	560.41
+TXN1899	19/03/2023	Pen Set	Stationery	West	2	14.33	0	28.66
+TXN1889	19/03/2023	Headphones	Electronics	South	2	90.31	0.1	162.56
+TXN1895	19/03/2023	Water Bottle	Accessories	North	2	20.36	0.15	34.61
+TXN1893	19/03/2023	Headphones	Electronics	North	4	86.25	0	345
+TXN1891	19/03/2023	Backpack	Accessories	North	2	54.39	0	108.78
+TXN1897	19/03/2023	Pen Set	Stationery	South	4	15.17	0	60.68
+TXN1887	19/03/2023	Headphones	Electronics	East	1	94.19	0	94.19
+TXN1888	19/03/2023	Desk	Furniture	West	1	210.36	0.05	199.84
+TXN1906	20/03/2023	Office Chair	Furniture	West	1	149.09	0.1	134.18
+TXN1908	20/03/2023	Water Bottle	Accessories	West	4	20.46	0.1	73.66
+TXN1915	20/03/2023	Water Bottle	Accessories	West	4	19.18	0.05	72.88
+TXN1912	20/03/2023	Water Bottle	Accessories	East	1	20.15	0.15	17.13
+TXN1911	20/03/2023	Water Bottle	Accessories	West	3	20.42	0	61.26
+TXN1910	20/03/2023	Water Bottle	Accessories	West	1	20.64	0	20.64
+TXN1905	20/03/2023	Pen Set	Stationery	North	4	14.34	0.1	51.62
+TXN1904	20/03/2023	Laptop	Electronics	North	1	467.25	0	467.25
+TXN1907	20/03/2023	Water Bottle	Accessories	West	1	20.98	0.1	18.88
+TXN1909	20/03/2023	Water Bottle	Accessories	East	3	20.28	0	60.84
+TXN1913	20/03/2023	Headphones	Electronics	West	3	87.8	0.15	223.89
+TXN1914	20/03/2023	Backpack	Accessories	North	4	53.41	0	213.64
+TXN1921	21/03/2023	Office Chair	Furniture	Central	1	151.96	0.05	144.36
+TXN1926	21/03/2023	Smartphone	Electronics	North	2	305.94	0	611.88
+TXN1922	21/03/2023	Water Bottle	Accessories	West	2	20.64	0.1	37.15
+TXN1917	21/03/2023	Printer Paper	Stationery	East	4	30.75	0	123
+TXN1923	21/03/2023	Printer Paper	Stationery	West	2	28.73	0.1	51.71
+TXN1927	21/03/2023	Office Chair	Furniture	East	1	144.8	0	144.8
+TXN1920	21/03/2023	Headphones	Electronics	East	4	92.61	0	370.44
+TXN1924	21/03/2023	Water Bottle	Accessories	Central	3	20.67	0	62.01
+TXN1916	21/03/2023	Water Bottle	Accessories	North	4	19.4	0	77.6
+TXN1925	21/03/2023	Headphones	Electronics	Central	2	93.85	0.05	178.31
+TXN1918	21/03/2023	Office Chair	Furniture	Central	2	146.67	0	293.34
+TXN1919	21/03/2023	Headphones	Electronics	North	1	88.44	0.15	75.17
+TXN1929	22/03/2023	Laptop	Electronics	North	1	441.56	0	441.56
+TXN1928	22/03/2023	Pen Set	Stationery	South	2	14.87	0.1	26.77
+TXN1937	22/03/2023	Desk	Furniture	South	2	215.39	0	430.78
+TXN1939	22/03/2023	Pen Set	Stationery	East	4	15.23	0.05	57.87
+TXN1938	22/03/2023	Pen Set	Stationery	South	4	15.44	0	61.76
+TXN1934	22/03/2023	Backpack	Accessories	North	2	55.21	0.05	104.9
+TXN1933	22/03/2023	Printer Paper	Stationery	West	1	30.56	0	30.56
+TXN1936	22/03/2023	Water Bottle	Accessories	East	3	19.95	0.05	56.86
+TXN1930	22/03/2023	Laptop	Electronics	East	1	457.47	0	457.47
+TXN1932	22/03/2023	Pen Set	Stationery	South	1	14.9	0	14.9
+TXN1935	22/03/2023	Backpack	Accessories	South	2	53.74	0.05	102.11
+TXN1931	22/03/2023	Water Bottle	Accessories	North	2	20.14	0.1	36.25
+TXN1945	23/03/2023	Pen Set	Stationery	East	1	15.18	0	15.18
+TXN1943	23/03/2023	Backpack	Accessories	North	2	54.83	0	109.66
+TXN1948	23/03/2023	Laptop	Electronics	Central	2	459.79	0	919.58
+TXN1946	23/03/2023	Desk	Furniture	North	2	211.45	0	422.9
+TXN1950	23/03/2023	Water Bottle	Accessories	South	1	20.86	0.15	17.73
+TXN1949	23/03/2023	Backpack	Accessories	North	4	57.61	0	230.44
+TXN1942	23/03/2023	Pen Set	Stationery	South	2	15.46	0	30.92
+TXN1940	23/03/2023	Backpack	Accessories	South	3	53.55	0.1	144.58
+TXN1944	23/03/2023	Pen Set	Stationery	South	1	15.67	0	15.67
+TXN1941	23/03/2023	Printer Paper	Stationery	South	3	29.6	0	88.8
+TXN1951	23/03/2023	Headphones	Electronics	East	4	90.14	0.05	342.53
+TXN1947	23/03/2023	Water Bottle	Accessories	Central	3	19	0	57
+TXN1964	24/03/2023	Pen Set	Stationery	North	4	15.57	0	62.28
+TXN1965	24/03/2023	Smartphone	Electronics	South	2	293.86	0.15	499.56
+TXN1962	24/03/2023	Headphones	Electronics	East	2	91.34	0	182.68
+TXN1953	24/03/2023	Headphones	Electronics	West	2	92.79	0	185.58
+TXN1958	24/03/2023	Printer Paper	Stationery	South	2	31.1	0	62.2
+TXN1952	24/03/2023	Pen Set	Stationery	North	3	14.85	0	44.55
+TXN1956	24/03/2023	Printer Paper	Stationery	South	4	29.66	0.15	100.84
+TXN1961	24/03/2023	Pen Set	Stationery	East	1	14.3	0.05	13.59
+TXN1955	24/03/2023	Water Bottle	Accessories	East	3	20.64	0.05	58.82
+TXN1960	24/03/2023	Backpack	Accessories	East	1	57.25	0	57.25
+TXN1959	24/03/2023	Water Bottle	Accessories	East	1	20.12	0	20.12
+TXN1966	24/03/2023	Water Bottle	Accessories	North	3	20.43	0.15	52.1
+TXN1957	24/03/2023	Office Chair	Furniture	West	2	150.67	0.05	286.27
+TXN1954	24/03/2023	Printer Paper	Stationery	West	1	30.51	0	30.51
+TXN1963	24/03/2023	Smartphone	Electronics	North	1	290.57	0	290.57
+TXN1971	25/03/2023	Printer Paper	Stationery	North	3	28.73	0	86.19
+TXN1968	25/03/2023	Office Chair	Furniture	South	3	152.92	0	458.76
+TXN1981	25/03/2023	Water Bottle	Accessories	East	3	20.13	0	60.39
+TXN1972	25/03/2023	Smartphone	Electronics	West	2	299.8	0	599.6
+TXN1975	25/03/2023	Water Bottle	Accessories	South	2	20.96	0.15	35.63
+TXN1980	25/03/2023	Headphones	Electronics	North	1	87.87	0.05	83.48
+TXN1970	25/03/2023	Printer Paper	Stationery	North	1	31.36	0	31.36
+TXN1976	25/03/2023	Smartphone	Electronics	North	2	292.13	0	584.26
+TXN1974	25/03/2023	Desk	Furniture	East	1	213.84	0	213.84
+TXN1977	25/03/2023	Smartphone	Electronics	North	2	295.19	0	590.38
+TXN1969	25/03/2023	Office Chair	Furniture	North	2	149.97	0	299.94
+TXN1979	25/03/2023	Printer Paper	Stationery	North	3	29.99	0	89.97
+TXN1978	25/03/2023	Backpack	Accessories	North	2	56.94	0	113.88
+TXN1982	25/03/2023	Headphones	Electronics	West	4	86.29	0	345.16
+TXN1967	25/03/2023	Water Bottle	Accessories	South	1	19.21	0.15	16.33
+TXN1973	25/03/2023	Smartphone	Electronics	North	2	302.44	0	604.88
+TXN1991	26/03/2023	Printer Paper	Stationery	South	3	31.05	0.1	83.84
+TXN1984	26/03/2023	Water Bottle	Accessories	East	2	20.33	0.05	38.63
+TXN1998	26/03/2023	Office Chair	Furniture	East	2	147.14	0.1	264.85
+TXN1989	26/03/2023	Headphones	Electronics	South	3	87.89	0	263.67
+TXN1997	26/03/2023	Pen Set	Stationery	South	1	14.93	0	14.93
+TXN1990	26/03/2023	Backpack	Accessories	East	2	55.93	0.15	95.08
+TXN1996	26/03/2023	Headphones	Electronics	East	1	89.16	0	89.16
+TXN1994	26/03/2023	Backpack	Accessories	Central	3	56.07	0	168.21
+TXN1983	26/03/2023	Headphones	Electronics	West	2	93.62	0	187.24
+TXN1993	26/03/2023	Backpack	Accessories	North	4	55.47	0	221.88
+TXN1985	26/03/2023	Water Bottle	Accessories	East	2	19.71	0.05	37.45
+TXN1987	26/03/2023	Backpack	Accessories	South	3	56.77	0	170.31
+TXN1992	26/03/2023	Water Bottle	Accessories	Central	1	20.6	0	20.6
+TXN1995	26/03/2023	Headphones	Electronics	South	4	91.32	0	365.28
+TXN1986	26/03/2023	Printer Paper	Stationery	South	4	29.68	0	118.72
+TXN1988	26/03/2023	Backpack	Accessories	East	3	57.34	0	172.02
+TXN2004	27/03/2023	Backpack	Accessories	East	1	57.28	0.1	51.55
+TXN2007	27/03/2023	Office Chair	Furniture	West	3	156.77	0	470.31
+TXN2010	27/03/2023	Backpack	Accessories	East	4	54.6	0.05	207.48
+TXN2003	27/03/2023	Printer Paper	Stationery	North	2	31.22	0	62.44
+TXN2005	27/03/2023	Office Chair	Furniture	East	3	154.06	0.1	415.96
+TXN2001	27/03/2023	Headphones	Electronics	East	1	90.82	0	90.82
+TXN2000	27/03/2023	Smartphone	Electronics	North	2	310.08	0.1	558.14
+TXN2002	27/03/2023	Pen Set	Stationery	West	3	14.69	0.15	37.46
+TXN2008	27/03/2023	Water Bottle	Accessories	North	2	20.99	0	41.98
+TXN1999	27/03/2023	Printer Paper	Stationery	North	1	28.72	0.05	27.28
+TXN2009	27/03/2023	Printer Paper	Stationery	Central	4	30.9	0	123.6
+TXN2006	27/03/2023	Backpack	Accessories	Central	2	55.49	0	110.98
+TXN2015	28/03/2023	Printer Paper	Stationery	East	2	29.92	0	59.84
+TXN2012	28/03/2023	Backpack	Accessories	North	3	55.16	0	165.48
+TXN2013	28/03/2023	Desk	Furniture	North	2	214.61	0	429.22
+TXN2023	28/03/2023	Printer Paper	Stationery	North	2	30.92	0.15	52.56
+TXN2017	28/03/2023	Headphones	Electronics	Central	3	88.02	0.05	250.86
+TXN2018	28/03/2023	Desk	Furniture	North	1	214.48	0.05	203.76
+TXN2011	28/03/2023	Laptop	Electronics	West	1	466.02	0.05	442.72
+TXN2021	28/03/2023	Printer Paper	Stationery	West	2	31.46	0.05	59.77
+TXN2016	28/03/2023	Laptop	Electronics	East	1	430.7	0.15	366.09
+TXN2019	28/03/2023	Desk	Furniture	Central	1	219.11	0.05	208.15
+TXN2022	28/03/2023	Water Bottle	Accessories	West	1	19.25	0.1	17.32
+TXN2020	28/03/2023	Backpack	Accessories	West	2	53.87	0.15	91.58
+TXN2014	28/03/2023	Pen Set	Stationery	North	4	14.87	0	59.48
+TXN2028	29/03/2023	Backpack	Accessories	North	4	53.3	0.1	191.88
+TXN2024	29/03/2023	Smartphone	Electronics	West	2	287.42	0	574.84
+TXN2029	29/03/2023	Printer Paper	Stationery	South	3	30.6	0	91.8
+TXN2031	29/03/2023	Pen Set	Stationery	West	2	15.71	0	31.42
+TXN2026	29/03/2023	Smartphone	Electronics	North	1	290.25	0.15	246.71
+TXN2032	29/03/2023	Headphones	Electronics	North	2	88.51	0	177.02
+TXN2034	29/03/2023	Printer Paper	Stationery	North	2	31.43	0	62.86
+TXN2027	29/03/2023	Headphones	Electronics	East	1	86.45	0.1	77.81
+TXN2036	29/03/2023	Desk	Furniture	West	2	220.81	0.15	375.38
+TXN2030	29/03/2023	Printer Paper	Stationery	North	2	30.2	0	60.4
+TXN2035	29/03/2023	Backpack	Accessories	North	2	52.62	0.1	94.72
+TXN2033	29/03/2023	Headphones	Electronics	North	3	90.93	0.15	231.87
+TXN2025	29/03/2023	Printer Paper	Stationery	East	3	29.34	0.15	74.82
+TXN2047	30/03/2023	Office Chair	Furniture	Central	1	144.45	0.05	137.23
+TXN2039	30/03/2023	Backpack	Accessories	North	2	53.07	0	106.14
+TXN2041	30/03/2023	Printer Paper	Stationery	Central	3	29.34	0.15	74.82
+TXN2042	30/03/2023	Water Bottle	Accessories	West	2	20.63	0	41.26
+TXN2048	30/03/2023	Headphones	Electronics	Central	4	87.45	0.15	297.33
+TXN2045	30/03/2023	Water Bottle	Accessories	South	1	19.08	0	19.08
+TXN2040	30/03/2023	Printer Paper	Stationery	North	1	28.71	0.15	24.4
+TXN2038	30/03/2023	Headphones	Electronics	North	2	85.69	0.15	145.67
+TXN2043	30/03/2023	Printer Paper	Stationery	West	2	30.95	0	61.9
+TXN2046	30/03/2023	Water Bottle	Accessories	North	4	20.4	0	81.6
+TXN2044	30/03/2023	Backpack	Accessories	West	3	54.88	0.15	139.94
+TXN2037	30/03/2023	Backpack	Accessories	West	1	55.05	0	55.05
+TXN2049	30/03/2023	Pen Set	Stationery	North	1	14.35	0	14.35
+TXN2060	31/03/2023	Backpack	Accessories	North	3	52.35	0	157.05
+TXN2061	31/03/2023	Printer Paper	Stationery	North	3	28.88	0.1	77.98
+TXN2063	31/03/2023	Backpack	Accessories	West	2	55.11	0.15	93.69
+TXN2059	31/03/2023	Smartphone	Electronics	East	2	287.03	0.15	487.95
+TXN2064	31/03/2023	Headphones	Electronics	North	4	91.4	0	365.6
+TXN2055	31/03/2023	Laptop	Electronics	West	1	469.56	0.05	446.08
+TXN2057	31/03/2023	Pen Set	Stationery	East	3	14.55	0	43.65
+TXN2056	31/03/2023	Water Bottle	Accessories	East	4	20.65	0	82.6
+TXN2054	31/03/2023	Printer Paper	Stationery	West	4	29.28	0.1	105.41
+TXN2051	31/03/2023	Printer Paper	Stationery	West	2	29.92	0.1	53.86
+TXN2058	31/03/2023	Smartphone	Electronics	Central	1	310.2	0.1	279.18
+TXN2052	31/03/2023	Water Bottle	Accessories	North	2	19.02	0	38.04
+TXN2062	31/03/2023	Pen Set	Stationery		1	15.35	0	15.35
+TXN2050	31/03/2023	Backpack	Accessories	East	2	54.7	0	109.4
+TXN2053	31/03/2023	Printer Paper	Stationery	East	1	31.32	0	31.32
+TXN2065	31/03/2023	Water Bottle	Accessories	South	1	20.9	0.1	18.81
+TXN2076	01/04/2023	Backpack	Accessories	North	3	56.36	0.1	152.17
+TXN2074	01/04/2023	Backpack	Accessories	South	2	55.84	0.05	106.1
+TXN2075	01/04/2023	Printer Paper	Stationery	North	3	30.77	0	92.31
+TXN2080	01/04/2023	Backpack	Accessories	North	4	52.33	0.05	198.85
+TXN2081	01/04/2023	Printer Paper	Stationery	East	2	29.04	0	58.08
+TXN2066	01/04/2023	Backpack	Accessories	West	3	55.23	0	165.69
+TXN2079	01/04/2023	Smartphone	Electronics	South	2	289.52	0.1	521.14
+TXN2070	01/04/2023	Headphones	Electronics	Central	2	87.26	0.1	157.07
+TXN2078	01/04/2023	Desk	Furniture	South	1	212.6	0.15	180.71
+TXN2072	01/04/2023	Printer Paper	Stationery	South	1	31.25	0.15	26.56
+TXN2073	01/04/2023	Headphones	Electronics	North	4	90.74	0.1	326.66
+TXN2067	01/04/2023	Water Bottle	Accessories	East	4	19.24	0.1	69.26
+TXN2071	01/04/2023	Laptop	Electronics	North	2	441.9	0.05	839.61
+TXN2077	01/04/2023	Office Chair	Furniture	Central	4	151.43	0	605.72
+TXN2068	01/04/2023	Pen Set	Stationery	South	2	14.9	0	29.8
+TXN2069	01/04/2023	Smartphone	Electronics	East	1	289.97	0.05	275.47
+TXN2101	02/04/2023	Laptop	Electronics	East	2	455.31	0	910.62
+TXN2090	02/04/2023	Headphones	Electronics	West	3	85.9	0.05	244.82
+TXN2093	02/04/2023	Water Bottle	Accessories	South	4	20.81	0	83.24
+TXN2089	02/04/2023	Pen Set	Stationery	South	4	15.04	0.05	57.15
+TXN2104	02/04/2023	Water Bottle	Accessories	South	4	19.23	0	76.92
+TXN2100	02/04/2023	Printer Paper	Stationery	West	1	31.07	0	31.07
+TXN2096	02/04/2023	Printer Paper	Stationery	North	4	30.87	0.05	117.31
+TXN2087	02/04/2023	Smartphone	Electronics	East	2	296.44	0	592.88
+TXN2083	02/04/2023	Headphones	Electronics	Central	2	88.27	0	176.54
+TXN2088	02/04/2023	Printer Paper	Stationery	Central	3	31.03	0	93.09
+TXN2085	02/04/2023	Backpack	Accessories	South	2	53.88	0	107.76
+TXN2102	02/04/2023	Headphones	Electronics	North	2	89.2	0	178.4
+TXN2095	02/04/2023	Printer Paper	Stationery	Central	4	30.99	0	123.96
+TXN2094	02/04/2023	Pen Set	Stationery	West	1	14.99	0	14.99
+TXN2099	02/04/2023	Water Bottle	Accessories	South	3	19.54	0	58.62
+TXN2086	02/04/2023	Laptop	Electronics	Central	1	467.01	0	467.01
+TXN2082	02/04/2023	Pen Set	Stationery	North	2	14.53	0	29.06
+TXN2105	02/04/2023	Printer Paper	Stationery	North	4	30.79	0	123.16
+TXN2098	02/04/2023	Office Chair	Furniture	Central	4	150.37	0.05	571.41
+TXN2084	02/04/2023	Backpack	Accessories	East	1	55.42	0	55.42
+TXN2097	02/04/2023	Water Bottle	Accessories	North	3	20.55	0	61.65
+TXN2103	02/04/2023	Backpack	Accessories	East	1	55.49	0	55.49
+TXN2091	02/04/2023	Printer Paper	Stationery	Central	3	29.48	0	88.44
+TXN2092	02/04/2023	Headphones	Electronics	West	4	86.99	0	347.96
+TXN2109	03/04/2023	Printer Paper	Stationery	West	3	28.77	0.05	81.99
+TXN2111	03/04/2023	Laptop	Electronics	South	1	449.71	0.15	382.25
+TXN2115	03/04/2023	Backpack	Accessories	Central	2	56.12	0	112.24
+TXN2110	03/04/2023	Water Bottle	Accessories	North	3	19.73	0	59.19
+TXN2119	03/04/2023	Desk	Furniture	West	1	213.19	0.15	181.21
+TXN2118	03/04/2023	Pen Set	Stationery	North	3	15.56	0	46.68
+TXN2112	03/04/2023	Office Chair	Furniture	West	3	146.28	0.15	373.01
+TXN2113	03/04/2023	Office Chair	Furniture	North	1	152.75	0	152.75
+TXN2107	03/04/2023	Printer Paper	Stationery	North	1	30.54	0.1	27.49
+TXN2108	03/04/2023	Printer Paper	Stationery	West	3	29.45	0.1	79.52
+TXN2114	03/04/2023	Pen Set	Stationery	West	2	15.37	0	30.74
+TXN2106	03/04/2023	Desk	Furniture	West	2	227.71	0.1	409.88
+TXN2117	03/04/2023	Pen Set	Stationery	East	4	14.31	0.1	51.52
+TXN2116	03/04/2023	Headphones	Electronics	North	1	92.82	0	92.82
+TXN2120	03/04/2023	Smartphone	Electronics	West	2	287.26	0	574.52
+TXN2128	04/04/2023	Water Bottle	Accessories	East	2	20.35	0	40.7
+TXN2121	04/04/2023	Backpack	Accessories	West	3	55.95	0.15	142.67
+TXN2134	04/04/2023	Pen Set	Stationery	West	4	14.76	0	59.04
+TXN2127	04/04/2023	Water Bottle	Accessories	Central	4	19.21	0	76.84
+TXN2123	04/04/2023	Headphones	Electronics	North	4	92.07	0	368.28
+TXN2122	04/04/2023	Printer Paper	Stationery	Central	2	30.43	0.15	51.73
+TXN2126	04/04/2023	Water Bottle	Accessories	South	2	20.4	0.05	38.76
+TXN2130	04/04/2023	Printer Paper	Stationery	Central	3	29.15	0.05	83.08
+TXN2124	04/04/2023	Headphones	Electronics	North	1	89.41	0.15	76
+TXN2132	04/04/2023	Backpack	Accessories	South	4	53.32	0	213.28
+TXN2125	04/04/2023	Office Chair	Furniture	Central	1	151.85	0	151.85
+TXN2133	04/04/2023	Office Chair	Furniture	South	1	147.39	0	147.39
+TXN2129	04/04/2023	Office Chair	Furniture	East	3	144.54	0	433.62
+TXN2131	04/04/2023	Pen Set	Stationery	East	4	14.41	0.15	48.99
+TXN2144	05/04/2023	Headphones	Electronics	North	1	86.69	0	86.69
+TXN2142	05/04/2023	Office Chair	Furniture	North	2	146.61	0.15	249.24
+TXN2146	05/04/2023	Backpack	Accessories	South	4	54.16	0.15	184.14
+TXN2147	05/04/2023	Printer Paper	Stationery	East	2	30.69	0.15	52.17
+TXN2138	05/04/2023	Backpack	Accessories	South	2	52.93	0	105.86
+TXN2136	05/04/2023	Laptop	Electronics	Central	1	472.27	0	472.27
+TXN2140	05/04/2023	Headphones	Electronics	East	2	93.75	0.1	168.75
+TXN2141	05/04/2023	Smartphone	Electronics	West	1	297.26	0.05	282.4
+TXN2137	05/04/2023	Headphones	Electronics	West	4	89.67	0	358.68
+TXN2139	05/04/2023	Water Bottle	Accessories	East	2	19.21	0.15	32.66
+TXN2148	05/04/2023	Headphones	Electronics	South	2	93.19	0.1	167.74
+TXN2143	05/04/2023	Office Chair	Furniture	West	4	146.72	0	586.88
+TXN2145	05/04/2023	Water Bottle	Accessories	West	3	19.09	0.15	48.68
+TXN2135	05/04/2023	Headphones	Electronics	East	3	85.51	0	256.53
+TXN2151	06/04/2023	Headphones	Electronics	South	4	86.28	0	345.12
+TXN2150	06/04/2023	Water Bottle	Accessories	South	4	19.68	0	78.72
+TXN2161	06/04/2023	Smartphone	Electronics	East	1	298.3	0	298.3
+TXN2159	06/04/2023	Pen Set	Stationery	East	1	14.45	0	14.45
+TXN2157	06/04/2023	Pen Set	Stationery	Central	4	14.72	0	58.88
+TXN2158	06/04/2023	Office Chair	Furniture	West	3	156.14	0	468.42
+TXN2152	06/04/2023	Headphones	Electronics	North	1	92.64	0	92.64
+TXN2156	06/04/2023	Smartphone	Electronics	South	2	309.13	0	618.26
+TXN2154	06/04/2023	Office Chair	Furniture	North	2	150.1	0.05	285.19
+TXN2162	06/04/2023	Water Bottle	Accessories	East	4	19.39	0	77.56
+TXN2153	06/04/2023	Pen Set	Stationery	North	2	15.1	0.15	25.67
+TXN2149	06/04/2023	Desk	Furniture	West	1	220.55	0	220.55
+TXN2160	06/04/2023	Headphones	Electronics	South	1	92.51	0	92.51
+TXN2155	06/04/2023	Printer Paper	Stationery	East	1	29.3	0.05	27.84
+TXN2169	07/04/2023	Smartphone	Electronics	South	2	304.66	0	609.32
+TXN2165	07/04/2023	Printer Paper	Stationery	South	2	30.02	0.15	51.03
+TXN2163	07/04/2023	Printer Paper	Stationery	South	4	30.13	0.15	102.44
+TXN2164	07/04/2023	Water Bottle	Accessories	East	2	20.86	0	41.72
+TXN2175	07/04/2023	Headphones	Electronics	West	2	89.66	0	179.32
+TXN2172	07/04/2023	Pen Set	Stationery	South	2	14.28	0	28.56
+TXN2167	07/04/2023	Backpack	Accessories	North	1	54.44	0.05	51.72
+TXN2168	07/04/2023	Printer Paper	Stationery	South	4	28.72	0	114.88
+TXN2170	07/04/2023	Water Bottle	Accessories	Central	4	20.17	0.15	68.58
+TXN2166	07/04/2023	Office Chair	Furniture	North	3	151.04	0.05	430.46
+TXN2171	07/04/2023	Water Bottle	Accessories	North	1	20.5	0	20.5
+TXN2174	07/04/2023	Printer Paper	Stationery	South	3	30.77	0.15	78.46
+TXN2173	07/04/2023	Water Bottle	Accessories	North	3	19.36	0	58.08
+TXN2178	08/04/2023	Printer Paper	Stationery	East	1	29.21	0	29.21
+TXN2188	08/04/2023	Smartphone	Electronics	East	1	298.89	0.15	254.06
+TXN2184	08/04/2023	Smartphone	Electronics	South	2	311.37	0	622.74
+TXN2190	08/04/2023	Office Chair	Furniture	North	4	152.43	0.1	548.75
+TXN2189	08/04/2023	Laptop	Electronics	Central	2	450.24	0	900.48
+TXN2180	08/04/2023	Pen Set	Stationery	South	2	14.87	0.1	26.77
+TXN2192	08/04/2023	Printer Paper	Stationery	East	3	30.59	0	91.77
+TXN2179	08/04/2023	Printer Paper	Stationery	South	4	30.64	0.05	116.43
+TXN2177	08/04/2023	Printer Paper	Stationery	Central	1	30.02	0.1	27.02
+TXN2182	08/04/2023	Pen Set	Stationery	West	1	15.27	0	15.27
+TXN2185	08/04/2023	Office Chair	Furniture	South	3	148.42	0	445.26
+TXN2187	08/04/2023	Headphones	Electronics	North	2	92.75	0.1	166.95
+TXN2181	08/04/2023	Headphones	Electronics	Central	4	92.58	0	370.32
+TXN2183	08/04/2023	Office Chair	Furniture	North	3	143.61	0.1	387.75
+TXN2191	08/04/2023	Office Chair	Furniture	East	2	149.14	0	298.28
+TXN2186	08/04/2023	Headphones	Electronics	West	1	86.73	0.05	82.39
+TXN2176	08/04/2023	Desk	Furniture	East	2	218.6	0.05	415.34
+TXN2195	09/04/2023	Office Chair	Furniture	North	3	155.18	0.15	395.71
+TXN2203	09/04/2023	Backpack	Accessories	Central	2	55.92	0.1	100.66
+TXN2202	09/04/2023	Printer Paper	Stationery	South	1	31.32	0	31.32
+TXN2209	09/04/2023	Headphones	Electronics	East	2	85.98	0.15	146.17
+TXN2199	09/04/2023	Backpack	Accessories	North	3	53.84	0	161.52
+TXN2193	09/04/2023	Printer Paper	Stationery	South	4	30.54	0	122.16
+TXN2207	09/04/2023	Pen Set	Stationery	East	3	14.63	0.1	39.5
+TXN2198	09/04/2023	Printer Paper	Stationery	Central	1	30.02	0	30.02
+TXN2197	09/04/2023	Office Chair	Furniture	West	2	146.53	0	293.06
+TXN2196	09/04/2023	Pen Set	Stationery	North	4	15.75	0	63
+TXN2206	09/04/2023	Printer Paper	Stationery	West	2	29.36	0.1	52.85
+TXN2210	09/04/2023	Water Bottle	Accessories	East	4	20.6	0.05	78.28
+TXN2205	09/04/2023	Water Bottle	Accessories	North	3	19.68	0	59.04
+TXN2201	09/04/2023	Smartphone	Electronics	North	1	291.5	0.1	262.35
+TXN2208	09/04/2023	Headphones	Electronics	East	4	92.02	0	368.08
+TXN2212	09/04/2023	Backpack	Accessories	North	3	57.64	0	172.92
+TXN2194	09/04/2023	Desk	Furniture	East	2	222.13	0	444.26
+TXN2204	09/04/2023	Desk	Furniture	South	2	212.54	0	425.08
+TXN2200	09/04/2023	Water Bottle	Accessories	Central	1	20.14	0.1	18.13
+TXN2211	09/04/2023	Backpack	Accessories	North	4	56.05	0.05	212.99
+TXN2222	10/04/2023	Backpack	Accessories	North	2	55.53	0	111.06
+TXN2213	10/04/2023	Water Bottle	Accessories	West	3	19.72	0	59.16
+TXN2218	10/04/2023	Printer Paper	Stationery	Central	3	30.94	0	92.82
+TXN2219	10/04/2023	Water Bottle	Accessories	North	4	19.62	0	78.48
+TXN2216	10/04/2023	Laptop	Electronics	North	2	455.7	0.05	865.83
+TXN2224	10/04/2023	Headphones	Electronics	North	3	92.4	0.05	263.34
+TXN2221	10/04/2023	Water Bottle	Accessories	Central	2	19.01	0	38.02
+TXN2215	10/04/2023	Headphones	Electronics	South	2	88.83	0	177.66
+TXN2220	10/04/2023	Office Chair	Furniture	North	1	152	0	152
+TXN2223	10/04/2023	Headphones	Electronics	East	4	88.68	0	354.72
+TXN2217	10/04/2023	Office Chair	Furniture	South	3	151.23	0.15	385.64
+TXN2214	10/04/2023	Headphones	Electronics	North	3	89.88	0	269.64
+TXN2231	11/04/2023	Laptop	Electronics	North	1	465.82	0	465.82
+TXN2232	11/04/2023	Printer Paper	Stationery	Central	2	29.09	0.05	55.27
+TXN2235	11/04/2023	Water Bottle	Accessories	North	3	20.66	0	61.98
+TXN2229	11/04/2023	Backpack	Accessories	East	3	55.71	0.15	142.06
+TXN2234	11/04/2023	Headphones	Electronics	North	1	89.08	0	89.08
+TXN2225	11/04/2023	Printer Paper	Stationery	West	3	30.45	0.1	82.22
+TXN2227	11/04/2023	Backpack	Accessories	East	4	53.85	0	215.4
+TXN2228	11/04/2023	Printer Paper	Stationery	Central	2	29.81	0.05	56.64
+TXN2237	11/04/2023	Smartphone	Electronics	East	2	293.24	0.1	527.83
+TXN2226	11/04/2023	Desk	Furniture	North	1	220.7	0	220.7
+TXN2236	11/04/2023	Water Bottle	Accessories	East	4	19.84	0	79.36
+TXN2233	11/04/2023	Headphones	Electronics	North	3	92.37	0.15	235.54
+TXN2230	11/04/2023	Pen Set	Stationery	East	4	14.73	0	58.92
+TXN2251	12/04/2023	Headphones	Electronics	Central	2	92.28	0.05	175.33
+TXN2250	12/04/2023	Headphones	Electronics	West	4	90.09	0	360.36
+TXN2239	12/04/2023	Office Chair	Furniture	East	2	156.33	0	312.66
+TXN2246	12/04/2023	Desk	Furniture	South	1	216.56	0.1	194.9
+TXN2243	12/04/2023	Office Chair	Furniture	East	4	145.12	0.1	522.43
+TXN2242	12/04/2023	Water Bottle	Accessories		3	19.98	0	59.94
+TXN2249	12/04/2023	Laptop	Electronics	East	2	464.65	0.05	882.83
+TXN2238	12/04/2023	Pen Set	Stationery	North	3	14.5	0	43.5
+TXN2241	12/04/2023	Office Chair	Furniture	East	2	149.29	0	298.58
+TXN2240	12/04/2023	Pen Set	Stationery	East	1	14.66	0	14.66
+TXN2244	12/04/2023	Desk	Furniture	South	1	229.53	0	229.53
+TXN2247	12/04/2023	Water Bottle	Accessories	East	1	20.38	0.05	19.36
+TXN2245	12/04/2023	Backpack	Accessories	South	4	57.41	0	229.64
+TXN2248	12/04/2023	Backpack	Accessories	South	4	55.35	0.15	188.19
+TXN2260	13/04/2023	Printer Paper	Stationery	West	3	29.33	0.15	74.79
+TXN2252	13/04/2023	Water Bottle	Accessories	North	1	20.53	0.05	19.5
+TXN2263	13/04/2023	Office Chair	Furniture	North	4	156.59	0.15	532.41
+TXN2258	13/04/2023	Backpack	Accessories	South	3	55.35	0.05	157.75
+TXN2257	13/04/2023	Printer Paper	Stationery	North	3	28.62	0	85.86
+TXN2264	13/04/2023	Desk	Furniture	South	2	225.14	0.05	427.77
+TXN2262	13/04/2023	Laptop	Electronics	East	1	454.03	0	454.03
+TXN2253	13/04/2023	Printer Paper	Stationery	South	3	29.42	0.05	83.85
+TXN2254	13/04/2023	Printer Paper	Stationery	South	4	28.63	0.05	108.79
+TXN2261	13/04/2023	Smartphone	Electronics	North	2	291.52	0	583.04
+TXN2255	13/04/2023	Headphones	Electronics	South	4	94.29	0.15	320.59
+TXN2256	13/04/2023	Headphones	Electronics	Central	3	89.8	0	269.4
+TXN2259	13/04/2023	Water Bottle	Accessories	Central	2	20.67	0	41.34
+TXN2265	14/04/2023	Smartphone	Electronics	East	2	306.49	0	612.98
+TXN2269	14/04/2023	Smartphone	Electronics	East	1	285.68	0.15	242.83
+TXN2272	14/04/2023	Printer Paper	Stationery	East	2	30.76	0	61.52
+TXN2275	14/04/2023	Smartphone	Electronics	North	2	298.54	0	597.08
+TXN2281	14/04/2023	Desk	Furniture	East	1	224.67	0	224.67
+TXN2276	14/04/2023	Water Bottle	Accessories	South	4	19.81	0.15	67.35
+TXN2279	14/04/2023	Printer Paper	Stationery	North	4	28.91	0	115.64
+TXN2280	14/04/2023	Headphones	Electronics	Central	1	92.7	0	92.7
+TXN2268	14/04/2023	Pen Set	Stationery	West	3	14.25	0	42.75
+TXN2277	14/04/2023	Desk	Furniture	North	2	215.44	0	430.88
+TXN2274	14/04/2023	Headphones	Electronics	Central	3	85.97	0	257.91
+TXN2273	14/04/2023	Headphones	Electronics	East	3	87.03	0	261.09
+TXN2266	14/04/2023	Backpack	Accessories	North	4	53.21	0	212.84
+TXN2267	14/04/2023	Headphones	Electronics	East	3	90.04	0	270.12
+TXN2271	14/04/2023	Smartphone	Electronics	Central	1	311.41	0.1	280.27
+TXN2278	14/04/2023	Smartphone	Electronics	North	1	287.96	0.05	273.56
+TXN2270	14/04/2023	Water Bottle	Accessories	West	2	20.22	0.05	38.42
+TXN2288	15/04/2023	Pen Set	Stationery	South	2	15.58	0	31.16
+TXN2290	15/04/2023	Printer Paper	Stationery	West	2	31.13	0.15	52.92
+TXN2289	15/04/2023	Laptop	Electronics	Central	2	466.64	0	933.28
+TXN2299	15/04/2023	Pen Set	Stationery	North	1	14.69	0.15	12.49
+TXN2282	15/04/2023	Smartphone	Electronics	North	2	301.94	0	603.88
+TXN2298	15/04/2023	Pen Set	Stationery	North	4	14.75	0.1	53.1
+TXN2295	15/04/2023	Pen Set	Stationery	Central	3	14.92	0	44.76
+TXN2284	15/04/2023	Pen Set	Stationery	North	1	14.55	0.05	13.82
+TXN2302	15/04/2023	Water Bottle	Accessories	North	1	19.66	0	19.66
+TXN2283	15/04/2023	Office Chair	Furniture	East	1	146.42	0	146.42
+TXN2291	15/04/2023	Water Bottle	Accessories	East	2	20.51	0	41.02
+TXN2293	15/04/2023	Office Chair	Furniture	North	4	148.18	0.15	503.81
+TXN2303	15/04/2023	Pen Set	Stationery	North	4	14.31	0.15	48.65
+TXN2285	15/04/2023	Backpack	Accessories	South	1	52.59	0	52.59
+TXN2297	15/04/2023	Headphones	Electronics	East	2	86.33	0	172.66
+TXN2301	15/04/2023	Pen Set	Stationery	North	3	14.84	0	44.52
+TXN2287	15/04/2023	Printer Paper	Stationery	West	4	29.08	0	116.32
+TXN2294	15/04/2023	Smartphone	Electronics	South	1	301.64	0.1	271.48
+TXN2286	15/04/2023	Backpack	Accessories	East	2	57.07	0.1	102.73
+TXN2292	15/04/2023	Backpack	Accessories	Central	3	56.27	0	168.81
+TXN2296	15/04/2023	Pen Set	Stationery	Central	4	15.13	0.1	54.47
+TXN2300	15/04/2023	Office Chair	Furniture	South	2	146.26	0	292.52
+TXN2314	16/04/2023	Printer Paper	Stationery	South	2	30.98	0.1	55.76
+TXN2312	16/04/2023	Desk	Furniture	North	1	223.18	0.1	200.86
+TXN2311	16/04/2023	Water Bottle	Accessories	South	2	20.19	0.15	34.32
+TXN2304	16/04/2023	Pen Set	Stationery	South	2	14.91	0.15	25.35
+TXN2323	16/04/2023	Desk	Furniture	West	2	221.16	0	442.32
+TXN2318	16/04/2023	Backpack	Accessories	West	4	53.56	0	214.24
+TXN2320	16/04/2023	Pen Set	Stationery	East	2	15.72	0	31.44
+TXN2306	16/04/2023	Office Chair	Furniture	West	2	152.93	0.1	275.27
+TXN2324	16/04/2023	Office Chair	Furniture	West	1	145.9	0	145.9
+TXN2308	16/04/2023	Water Bottle	Accessories	North	3	19.6	0.05	55.86
+TXN2317	16/04/2023	Headphones	Electronics	West	3	87.47	0.1	236.17
+TXN2310	16/04/2023	Water Bottle	Accessories	West	2	20.32	0.1	36.58
+TXN2305	16/04/2023	Backpack	Accessories	North	2	53.61	0.1	96.5
+TXN2309	16/04/2023	Backpack	Accessories	North	4	55.91	0.1	201.28
+TXN2319	16/04/2023	Smartphone	Electronics	Central	1	298.67	0	298.67
+TXN2313	16/04/2023	Headphones	Electronics	Central	4	93.46	0.15	317.76
+TXN2322	16/04/2023	Pen Set	Stationery	North	1	15.27	0	15.27
+TXN2321	16/04/2023	Printer Paper	Stationery	South	3	29.44	0	88.32
+TXN2315	16/04/2023	Headphones	Electronics	East	2	85.77	0.15	145.81
+TXN2307	16/04/2023	Backpack	Accessories	North	1	54.12	0	54.12
+TXN2316	16/04/2023	Pen Set	Stationery	West	3	14.63	0.1	39.5
+TXN2338	17/04/2023	Backpack	Accessories	West	2	56.7	0	113.4
+TXN2335	17/04/2023	Pen Set	Stationery	Central	3	14.51	0.1	39.18
+TXN2334	17/04/2023	Office Chair	Furniture	North	3	149.18	0.05	425.16
+TXN2330	17/04/2023	Printer Paper	Stationery	West	4	29.78	0.05	113.16
+TXN2329	17/04/2023	Backpack	Accessories	South	3	55.56	0.15	141.68
+TXN2328	17/04/2023	Laptop	Electronics	Central	2	456.57	0.15	776.17
+TXN2333	17/04/2023	Backpack	Accessories	West	2	53.74	0.15	91.36
+TXN2332	17/04/2023	Headphones	Electronics	West	1	92.81	0	92.81
+TXN2326	17/04/2023	Printer Paper	Stationery	North	2	31.38	0	62.76
+TXN2336	17/04/2023	Printer Paper	Stationery	North	1	30.44	0	30.44
+TXN2337	17/04/2023	Smartphone	Electronics	North	2	288.32	0.1	518.98
+TXN2331	17/04/2023	Smartphone	Electronics	Central	2	291.13	0.1	524.03
+TXN2325	17/04/2023	Backpack	Accessories	West	3	53.29	0	159.87
+TXN2327	17/04/2023	Office Chair	Furniture	West	4	149.84	0	599.36
+TXN2339	17/04/2023	Headphones	Electronics	East	4	86.37	0.05	328.21
+TXN2343	18/04/2023	Water Bottle	Accessories	North	2	20.76	0.15	35.29
+TXN2348	18/04/2023	Water Bottle	Accessories	South	3	19.34	0	58.02
+TXN2349	18/04/2023	Backpack	Accessories	East	1	52.81	0.05	50.17
+TXN2344	18/04/2023	Desk	Furniture	West	2	215.88	0.1	388.58
+TXN2350	18/04/2023	Printer Paper	Stationery	Central	3	28.83	0	86.49
+TXN2345	18/04/2023	Headphones	Electronics	South	4	93.24	0	372.96
+TXN2342	18/04/2023	Laptop	Electronics	South	1	443.27	0	443.27
+TXN2352	18/04/2023	Printer Paper	Stationery	West	2	29.79	0	59.58
+TXN2341	18/04/2023	Headphones	Electronics	Central	1	90.66	0	90.66
+TXN2351	18/04/2023	Headphones	Electronics	East	2	86.81	0	173.62
+TXN2347	18/04/2023	Headphones	Electronics	East	3	86.51	0.05	246.55
+TXN2340	18/04/2023	Water Bottle	Accessories	North	4	20.37	0	81.48
+TXN2346	18/04/2023	Water Bottle	Accessories	South	2	19.05	0	38.1
+TXN2361	19/04/2023	Office Chair	Furniture	Central	2	144.74	0.1	260.53
+TXN2365	19/04/2023	Water Bottle	Accessories	Central	4	19.26	0	77.04
+TXN2363	19/04/2023	Headphones	Electronics	North	3	86.91	0.05	247.69
+TXN2354	19/04/2023	Backpack	Accessories	East	3	56.88	0	170.64
+TXN2358	19/04/2023	Office Chair	Furniture	West	1	151.83	0.15	129.06
+TXN2355	19/04/2023	Office Chair	Furniture	South	2	153.78	0.15	261.43
+TXN2362	19/04/2023	Desk	Furniture	Central	2	212.84	0	425.68
+TXN2364	19/04/2023	Water Bottle	Accessories	East	1	19.04	0	19.04
+TXN2353	19/04/2023	Water Bottle	Accessories	Central	4	19.4	0	77.6
+TXN2366	19/04/2023	Pen Set	Stationery	West	1	15.38	0.15	13.07
+TXN2367	19/04/2023	Desk	Furniture	West	2	224.77	0	449.54
+TXN2360	19/04/2023	Headphones	Electronics	South	1	93.41	0.05	88.74
+TXN2356	19/04/2023	Pen Set	Stationery	Central	2	14.25	0	28.5
+TXN2357	19/04/2023	Printer Paper	Stationery	East	1	30.3	0.05	28.79
+TXN2359	19/04/2023	Printer Paper	Stationery	South	4	28.69	0	114.76
+TXN2373	20/04/2023	Smartphone	Electronics	West	1	297.87	0.05	282.98
+TXN2375	20/04/2023	Pen Set	Stationery	West	4	14.91	0	59.64
+TXN2369	20/04/2023	Printer Paper	Stationery	North	3	30.25	0.1	81.67
+TXN2376	20/04/2023	Pen Set	Stationery	South	4	14.91	0	59.64
+TXN2371	20/04/2023	Pen Set	Stationery	North	3	15.05	0	45.15
+TXN2374	20/04/2023	Laptop	Electronics	West	1	440.41	0.1	396.37
+TXN2378	20/04/2023	Backpack	Accessories	South	3	52.57	0.1	141.94
+TXN2380	20/04/2023	Smartphone	Electronics	West	1	292.88	0.1	263.59
+TXN2379	20/04/2023	Printer Paper	Stationery	North	3	29.76	0	89.28
+TXN2368	20/04/2023	Pen Set	Stationery	East	1	14.98	0	14.98
+TXN2377	20/04/2023	Pen Set	Stationery	East	1	14.27	0.05	13.56
+TXN2370	20/04/2023	Pen Set	Stationery	South	1	15.62	0.05	14.84
+TXN2372	20/04/2023	Water Bottle	Accessories	East	2	20.1	0.15	34.17
+TXN2389	21/04/2023	Water Bottle	Accessories	East	3	20.1	0	60.3
+TXN2383	21/04/2023	Smartphone	Electronics	Central	2	290.48	0	580.96
+TXN2395	21/04/2023	Office Chair	Furniture	Central	1	156.01	0	156.01
+TXN2385	21/04/2023	Headphones	Electronics	North	3	92.7	0.15	236.39
+TXN2392	21/04/2023	Pen Set	Stationery	North	4	14.27	0	57.08
+TXN2391	21/04/2023	Desk	Furniture	North	2	217.21	0.15	369.26
+TXN2384	21/04/2023	Printer Paper	Stationery	South	3	29.58	0.05	84.3
+TXN2390	21/04/2023	Water Bottle	Accessories	West	3	20.16	0	60.48
+TXN2388	21/04/2023	Water Bottle	Accessories	East	2	20.66	0.05	39.25
+TXN2387	21/04/2023	Headphones	Electronics	South	1	91.76	0	91.76
+TXN2386	21/04/2023	Backpack	Accessories	East	3	52.33	0	156.99
+TXN2394	21/04/2023	Smartphone	Electronics	West	1	310.67	0.05	295.14
+TXN2381	21/04/2023	Pen Set	Stationery	West	1	15.45	0	15.45
+TXN2382	21/04/2023	Desk	Furniture	East	1	214.01	0.05	203.31
+TXN2393	21/04/2023	Headphones	Electronics	East	4	93.53	0.1	336.71
+TXN2411	22/04/2023	Smartphone	Electronics	Central	1	307.34	0.15	261.24
+TXN2410	22/04/2023	Headphones	Electronics	North	3	87.66	0	262.98
+TXN2408	22/04/2023	Water Bottle	Accessories	South	1	19.07	0.15	16.21
+TXN2414	22/04/2023	Headphones	Electronics	North	4	87.51	0.05	332.54
+TXN2406	22/04/2023	Backpack	Accessories	Central	1	56.58	0.05	53.75
+TXN2407	22/04/2023	Pen Set	Stationery	Central	3	14.52	0	43.56
+TXN2398	22/04/2023	Smartphone	Electronics	East	2	308.17	0.05	585.52
+TXN2413	22/04/2023	Office Chair	Furniture	Central	4	154.52	0.1	556.27
+TXN2404	22/04/2023	Pen Set	Stationery	Central	4	14.48	0.15	49.23
+TXN2402	22/04/2023	Backpack	Accessories	South	4	55.83	0.15	189.82
+TXN2397	22/04/2023	Printer Paper	Stationery	West	1	31.21	0	31.21
+TXN2415	22/04/2023	Backpack	Accessories	North	3	56.23	0.05	160.26
+TXN2396	22/04/2023	Backpack	Accessories	West	1	52.6	0	52.6
+TXN2401	22/04/2023	Backpack	Accessories	Central	2	52.63	0	105.26
+TXN2403	22/04/2023	Water Bottle	Accessories	Central	2	19.55	0	39.1
+TXN2409	22/04/2023	Backpack	Accessories	East	2	52.72	0.1	94.9
+TXN2412	22/04/2023	Printer Paper	Stationery	East	3	29.58	0	88.74
+TXN2399	22/04/2023	Water Bottle	Accessories	North	4	19.21	0.1	69.16
+TXN2405	22/04/2023	Pen Set	Stationery	South	4	15.62	0.1	56.23
+TXN2400	22/04/2023	Backpack	Accessories	North	1	52.79	0.15	44.87
+TXN2418	23/04/2023	Printer Paper	Stationery	North	4	30.57	0.1	110.05
+TXN2428	23/04/2023	Backpack	Accessories	South	2	53.89	0.1	97
+TXN2427	23/04/2023	Headphones	Electronics	East	2	87.73	0.1	157.91
+TXN2420	23/04/2023	Water Bottle	Accessories	South	3	19.79	0.05	56.4
+TXN2429	23/04/2023	Pen Set	Stationery	Central	3	14.39	0.05	41.01
+TXN2416	23/04/2023	Water Bottle	Accessories	North	1	20.73	0	20.73
+TXN2434	23/04/2023	Headphones	Electronics	East	2	92.89	0	185.78
+TXN2436	23/04/2023	Laptop	Electronics	West	1	460.55	0.05	437.52
+TXN2435	23/04/2023	Printer Paper	Stationery	East	2	29.26	0.05	55.59
+TXN2430	23/04/2023	Printer Paper	Stationery	South	4	29.1	0	116.4
+TXN2421	23/04/2023	Pen Set	Stationery	East	3	15.1	0.1	40.77
+TXN2419	23/04/2023	Smartphone	Electronics	East	2	303.76	0.1	546.77
+TXN2423	23/04/2023	Backpack	Accessories	West	4	52.66	0.05	200.11
+TXN2417	23/04/2023	Backpack	Accessories	West	4	56.73	0.15	192.88
+TXN2437	23/04/2023	Office Chair	Furniture	North	2	153.23	0.1	275.81
+TXN2433	23/04/2023	Backpack	Accessories	North	3	57	0.15	145.35
+TXN2426	23/04/2023	Backpack	Accessories	South	2	53.21	0.1	95.78
+TXN2424	23/04/2023	Backpack	Accessories	South	2	56.62	0.05	107.58
+TXN2432	23/04/2023	Water Bottle	Accessories	North	3	19.44	0.15	49.57
+TXN2431	23/04/2023	Office Chair	Furniture	East	3	151.01	0	453.03
+TXN2422	23/04/2023	Backpack	Accessories	North	4	56.82	0.1	204.55
+TXN2425	23/04/2023	Headphones	Electronics	West	2	89.19	0	178.38
+TXN2438	23/04/2023	Headphones	Electronics	North	3	88.1	0.05	251.08
+TXN2439	23/04/2023	Headphones	Electronics	East	1	89.8	0	89.8
+TXN2447	24/04/2023	Pen Set	Stationery	North	1	14.69	0.05	13.96
+TXN2448	24/04/2023	Water Bottle	Accessories	South	3	20.06	0	60.18
+TXN2440	24/04/2023	Backpack	Accessories	North	4	53.96	0	215.84
+TXN2442	24/04/2023	Headphones	Electronics	North	2	93.08	0	186.16
+TXN2454	24/04/2023	Headphones	Electronics	South	1	87.66	0.05	83.28
+TXN2444	24/04/2023	Laptop	Electronics	West	2	432.75	0.1	778.95
+TXN2450	24/04/2023	Water Bottle	Accessories	North	1	19.93	0	19.93
+TXN2441	24/04/2023	Backpack	Accessories	North	3	54.96	0.15	140.15
+TXN2453	24/04/2023	Water Bottle	Accessories	North	3	19.62	0	58.86
+TXN2449	24/04/2023	Headphones	Electronics	West	3	92.68	0.05	264.14
+TXN2455	24/04/2023	Pen Set	Stationery	East	4	15.29	0.15	51.99
+TXN2445	24/04/2023	Printer Paper	Stationery	North	4	31	0	124
+TXN2443	24/04/2023	Water Bottle	Accessories	West	4	20.04	0.05	76.15
+TXN2446	24/04/2023	Headphones	Electronics	Central	4	89.68	0.1	322.85
+TXN2452	24/04/2023	Backpack	Accessories	North	3	57.08	0.1	154.12
+TXN2451	24/04/2023	Backpack	Accessories	North	4	55.34	0	221.36
+TXN2466	25/04/2023	Office Chair	Furniture	North	3	147.99	0.1	399.57
+TXN2458	25/04/2023	Printer Paper	Stationery	South	3	28.64	0	85.92
+TXN2459	25/04/2023	Pen Set	Stationery	West	4	14.36	0.05	54.57
+TXN2463	25/04/2023	Laptop	Electronics	Central	2	472.29	0.05	897.35
+TXN2460	25/04/2023	Office Chair	Furniture	East	4	144.83	0	579.32
+TXN2464	25/04/2023	Headphones	Electronics	North	3	88.6	0.1	239.22
+TXN2457	25/04/2023	Pen Set	Stationery	South	3	15.23	0	45.69
+TXN2456	25/04/2023	Backpack	Accessories	North	4	53.7	0	214.8
+TXN2468	25/04/2023	Pen Set	Stationery	East	3	15.61	0.15	39.81
+TXN2467	25/04/2023	Desk	Furniture	North	2	219.63	0.15	373.37
+TXN2469	25/04/2023	Desk	Furniture	Central	2	226.95	0.05	431.2
+TXN2465	25/04/2023	Pen Set	Stationery	West	4	15.06	0.05	57.23
+TXN2461	25/04/2023	Office Chair	Furniture	West	4	146.11	0.1	526
+TXN2462	25/04/2023	Office Chair	Furniture	South	2	154.49	0.05	293.53
+TXN2478	26/04/2023	Smartphone	Electronics	Central	1	314.82	0	314.82
+TXN2482	26/04/2023	Headphones	Electronics	East	2	89.39	0.05	169.84
+TXN2470	26/04/2023	Printer Paper	Stationery	North	1	30.21	0	30.21
+TXN2477	26/04/2023	Water Bottle	Accessories	East	1	19.74	0	19.74
+TXN2476	26/04/2023	Backpack	Accessories	North	1	53.08	0.15	45.12
+TXN2483	26/04/2023	Backpack	Accessories	North	4	52.4	0	209.6
+TXN2485	26/04/2023	Pen Set	Stationery	South	4	14.48	0	57.92
+TXN2473	26/04/2023	Laptop	Electronics	North	1	432.92	0.05	411.27
+TXN2474	26/04/2023	Headphones	Electronics	Central	2	92.19	0.1	165.94
+TXN2471	26/04/2023	Smartphone	Electronics	Central	1	304.66	0	304.66
+TXN2481	26/04/2023	Printer Paper	Stationery	North	2	29.68	0	59.36
+TXN2475	26/04/2023	Water Bottle	Accessories	Central	3	19.27	0.15	49.14
+TXN2472	26/04/2023	Backpack	Accessories	West	1	56.43	0.15	47.97
+TXN2479	26/04/2023	Water Bottle	Accessories	South	1	19.44	0	19.44
+TXN2484	26/04/2023	Headphones	Electronics	Central	3	92.77	0.05	264.39
+TXN2480	26/04/2023	Printer Paper	Stationery	Central	4	30.84	0	123.36
+TXN2495	27/04/2023	Headphones	Electronics	South	3	93.02	0.15	237.2
+TXN2496	27/04/2023	Water Bottle	Accessories	South	1	19.26	0.15	16.37
+TXN2497	27/04/2023	Pen Set	Stationery	South	3	14.82		44.46
+TXN2489	27/04/2023	Office Chair	Furniture	North	4	155.34	0	621.36
+TXN2487	27/04/2023	Headphones	Electronics	North	2	85.95	0.15	146.12
+TXN2492	27/04/2023	Backpack	Accessories	East	3	52.89	0	158.67
+TXN2494	27/04/2023	Printer Paper	Stationery	East	1	28.92	0.05	27.47
+TXN2498	27/04/2023	Water Bottle	Accessories	South	3	20.53	0	61.59
+TXN2500	27/04/2023	Desk	Furniture	North	1	216.52	0.1	194.87
+TXN2486	27/04/2023	Water Bottle	Accessories	South	2	19.45	0	38.9
+TXN2501	27/04/2023	Office Chair	Furniture	East	3	142.58	0	427.74
+TXN2491	27/04/2023	Backpack	Accessories	South	3	53.58	0	160.74
+TXN2488	27/04/2023	Headphones	Electronics	East	1	90.21	0.1	81.19
+TXN2490	27/04/2023	Laptop	Electronics	North	1	431.25	0.05	409.69
+TXN2502	27/04/2023	Smartphone	Electronics	West	1	304.24	0	304.24
+TXN2499	27/04/2023	Headphones	Electronics	North	3	85.5	0.15	218.03
+TXN2493	27/04/2023	Pen Set	Stationery	North	1	14.81	0.15	12.59
+TXN2517	28/04/2023	Backpack	Accessories	East	1	53.32	0	53.32
+TXN2504	28/04/2023	Headphones	Electronics	North	1	87.2	0	87.2
+TXN2511	28/04/2023	Pen Set	Stationery	West	3	14.77	0	44.31
+TXN2515	28/04/2023	Backpack	Accessories	West	3	53.34	0.05	152.02
+TXN2508	28/04/2023	Printer Paper	Stationery	North	1	29.85	0	29.85
+TXN2514	28/04/2023	Desk	Furniture	East	2	209.81	0	419.62
+TXN2513	28/04/2023	Printer Paper	Stationery	South	1	30.62	0.15	26.03
+TXN2518	28/04/2023	Laptop	Electronics	North	1	462.97	0	462.97
+TXN2506	28/04/2023	Backpack	Accessories	West	3	57.3	0	171.9
+TXN2507	28/04/2023	Backpack	Accessories	South	2	54.22	0.1	97.6
+TXN2516	28/04/2023	Backpack	Accessories	East	1	55.68	0	55.68
+TXN2509	28/04/2023	Laptop	Electronics	East	1	458.52	0.15	389.74
+TXN2503	28/04/2023	Office Chair	Furniture	North	4	156.85	0	627.4
+TXN2512	28/04/2023	Water Bottle	Accessories	South	2	19.78	0	39.56
+TXN2505	28/04/2023	Smartphone	Electronics	West	1	303.36	0.05	288.19
+TXN2510	28/04/2023	Office Chair	Furniture	West	1	155.87	0.05	148.08
+TXN2519	28/04/2023	Printer Paper	Stationery	East	4	30.02	0.15	102.07
+TXN2524	29/04/2023	Printer Paper	Stationery	East	2	29.15	0	58.3
+TXN2533	29/04/2023	Water Bottle	Accessories	East	4	19.22	0.05	73.04
+TXN2542	29/04/2023	Water Bottle	Accessories	North	4	20.98	0.15	71.33
+TXN2536	29/04/2023	Backpack	Accessories	East	2	52.4	0	104.8
+TXN2526	29/04/2023	Office Chair	Furniture	Central	1	149.01	0	149.01
+TXN2521	29/04/2023	Office Chair	Furniture	North	4	155.19	0	620.76
+TXN2535	29/04/2023	Backpack	Accessories	North	3	56.86	0	170.58
+TXN2530	29/04/2023	Backpack	Accessories	Central	1	52.75	0	52.75
+TXN2525	29/04/2023	Headphones	Electronics	East	3	86.52	0.05	246.58
+TXN2529	29/04/2023	Pen Set	Stationery	North	4	14.52	0.05	55.18
+TXN2538	29/04/2023	Backpack	Accessories	West	3	55.86	0	167.58
+TXN2537	29/04/2023	Headphones	Electronics	North	3	85.73	0.05	244.33
+TXN2523	29/04/2023	Headphones	Electronics	North	3	91.76	0.05	261.52
+TXN2527	29/04/2023	Printer Paper	Stationery	South	4	29.18	0.1	105.05
+TXN2522	29/04/2023	Backpack	Accessories	North	2	55.54	0	111.08
+TXN2528	29/04/2023	Smartphone	Electronics	West	2	305.06	0	610.12
+TXN2540	29/04/2023	Smartphone	Electronics	East	2	301.82	0.15	513.09
+TXN2539	29/04/2023	Smartphone	Electronics	South	1	293.05	0.1	263.75
+TXN2531	29/04/2023	Water Bottle	Accessories	West	2	19.76	0.05	37.54
+TXN2541	29/04/2023	Water Bottle	Accessories	West	2	20.78	0	41.56
+TXN2534	29/04/2023	Headphones	Electronics	North	1	86.75	0.15	73.74
+TXN2520	29/04/2023	Headphones	Electronics	South	2	91.6	0	183.2
+TXN2532	29/04/2023	Headphones	Electronics	Central	2	88.71	0	177.42
+TXN2560	30/04/2023	Water Bottle	Accessories	North	4	19.87	0	79.48
+TXN2547	30/04/2023	Water Bottle	Accessories	East	4	20.38	0	81.52
+TXN2544	30/04/2023	Headphones	Electronics	North	4	90.19	0	360.76
+TXN2557	30/04/2023	Backpack	Accessories	East	2	53.75	0	107.5
+TXN2554	30/04/2023	Water Bottle	Accessories	East	4	20.76	0.15	70.58
+TXN2543	30/04/2023	Backpack	Accessories	Central	4	53.78	0.05	204.36
+TXN2550	30/04/2023	Pen Set	Stationery	East	2	15.52	0	31.04
+TXN2545	30/04/2023	Backpack	Accessories	West	4	56.06	0	224.24
+TXN2565	30/04/2023	Headphones	Electronics	North	1	87.98	0.15	74.78
+TXN2559	30/04/2023	Office Chair	Furniture	North	1	150.3	0.05	142.78
+TXN2561	30/04/2023	Printer Paper	Stationery	North	1	31.14	0.1	28.03
+TXN2546	30/04/2023	Office Chair	Furniture	West	1	144.85	0.1	130.37
+TXN2555	30/04/2023	Office Chair	Furniture	West	4	156.82	0.05	595.92
+TXN2564	30/04/2023	Backpack	Accessories	West	1	55.87	0.15	47.49
+TXN2549	30/04/2023	Headphones	Electronics	North	1	93.29	0	93.29
+TXN2552	30/04/2023	Printer Paper	Stationery	South	2	30.74	0	61.48
+TXN2562	30/04/2023	Water Bottle	Accessories	North	2	19.57	0.1	35.23
+TXN2558	30/04/2023	Office Chair	Furniture	East	2	150.12	0.15	255.2
+TXN2548	30/04/2023	Printer Paper	Stationery	East	2	29.97	0.1	53.95
+TXN2551	30/04/2023	Desk	Furniture	Central	1	218.61	0	218.61
+TXN2553	30/04/2023	Printer Paper	Stationery	West	3	28.95	0	86.85
+TXN2556	30/04/2023	Printer Paper	Stationery	Central	3	30.82	0.1	83.21
+TXN2563	30/04/2023	Office Chair	Furniture	East	3	146.87	0.15	374.52
+TXN2580	01/05/2023	Headphones	Electronics	West	1	89.72	0.1	80.75
+TXN2572	01/05/2023	Water Bottle	Accessories	South	3	19.31	0.05	55.03
+TXN2578	01/05/2023	Office Chair	Furniture	East	4	151.13	0.15	513.84
+TXN2568	01/05/2023	Headphones	Electronics	North	1	92.82	0.05	88.18
+TXN2566	01/05/2023	Headphones	Electronics	South	2	91.13	0	182.26
+TXN2569	01/05/2023	Headphones	Electronics	North	1	90.22	0	90.22
+TXN2575	01/05/2023	Laptop	Electronics	East	1	445.27	0	445.27
+TXN2576	01/05/2023	Headphones	Electronics	North	4	89.47	0	357.88
+TXN2579	01/05/2023	Water Bottle	Accessories	North	3	20.63	0.15	52.61
+TXN2581	01/05/2023	Backpack	Accessories	East	1	53.82	0	53.82
+TXN2577	01/05/2023	Water Bottle	Accessories	East	3	19.78	0.05	56.37
+TXN2571	01/05/2023	Headphones	Electronics	South	2	92.33	0	184.66
+TXN2570	01/05/2023	Backpack	Accessories	East	3	53.4	0.15	136.17
+TXN2573	01/05/2023	Headphones	Electronics	South	1	91.72	0.15	77.96
+TXN2574	01/05/2023	Printer Paper	Stationery	North	3	30.85	0.1	83.3
+TXN2567	01/05/2023	Headphones	Electronics	West	2	92.33	0.05	175.43
+TXN2596	02/05/2023	Backpack	Accessories	West	1	53.24	0	53.24
+TXN2584	02/05/2023	Backpack	Accessories	Central	3	55.31	0	165.93
+TXN2595	02/05/2023	Water Bottle	Accessories	East	2	20.18	0	40.36
+TXN2583	02/05/2023	Printer Paper	Stationery	West	1	29.17	0.1	26.25
+TXN2592	02/05/2023	Backpack	Accessories	East	1	54.68	0	54.68
+TXN2593	02/05/2023	Desk	Furniture	South	1	229.13	0.05	217.67
+TXN2589	02/05/2023	Water Bottle	Accessories	Central	4	20.95	0.1	75.42
+TXN2591	02/05/2023	Headphones	Electronics	North	3	93.14	0.05	265.45
+TXN2582	02/05/2023	Pen Set	Stationery	West	4	14.96	0.1	53.86
+TXN2587	02/05/2023	Smartphone	Electronics	South	1	308.71	0	308.71
+TXN2586	02/05/2023	Desk	Furniture	East	1	230.82	0.05	219.28
+TXN2585	02/05/2023	Headphones	Electronics	Central	4	94.09	0.1	338.72
+TXN2588	02/05/2023	Headphones	Electronics	East	2	92.32	0	184.64
+TXN2590	02/05/2023	Headphones	Electronics	Central	1	85.68	0.05	81.4
+TXN2594	02/05/2023	Pen Set	Stationery	North	3	15.41	0.15	39.3
+TXN2612	03/05/2023	Pen Set	Stationery	Central	1	15.39	0	15.39
+TXN2602	03/05/2023	Headphones	Electronics	East	2	90.78	0	181.56
+TXN2601	03/05/2023	Water Bottle	Accessories	South	2	19.1	0.1	34.38
+TXN2599	03/05/2023	Headphones	Electronics	South	1	94.5	0	94.5
+TXN2609	03/05/2023	Water Bottle	Accessories	East	3	20.38	0	61.14
+TXN2610	03/05/2023	Printer Paper	Stationery	West	3	31.2	0.05	88.92
+TXN2611	03/05/2023	Printer Paper	Stationery	South	4	30.32	0.05	115.22
+TXN2606	03/05/2023	Headphones	Electronics	North	1	86.21	0.15	73.28
+TXN2603	03/05/2023	Backpack	Accessories	Central	2	53.61	0.15	91.14
+TXN2604	03/05/2023	Printer Paper	Stationery	North	3	31.04	0	93.12
+TXN2605	03/05/2023	Printer Paper	Stationery	Central	1	29.34	0.1	26.41
+TXN2598	03/05/2023	Office Chair	Furniture	North	1	149.23	0.15	126.85
+TXN2600	03/05/2023	Laptop	Electronics	South	1	431.26	0.05	409.7
+TXN2608	03/05/2023	Headphones	Electronics	North	1	88.67	0	88.67
+TXN2597	03/05/2023	Printer Paper	Stationery	North	3	30.45	0.1	82.22
+TXN2607	03/05/2023	Desk	Furniture	Central	1	212.18	0.15	180.35
+TXN2618	04/05/2023	Laptop	Electronics	North	2	439.73	0	879.46
+TXN2625	04/05/2023	Headphones	Electronics	North	2	91.6	0.1	164.88
+TXN2624	04/05/2023	Laptop	Electronics	East	1	456.38	0.15	387.92
+TXN2616	04/05/2023	Printer Paper	Stationery	South	2	31.5	0.1	56.7
+TXN2622	04/05/2023	Desk	Furniture	South	1	214.39	0.15	182.23
+TXN2614	04/05/2023	Printer Paper	Stationery	Central	3	28.51	0	85.53
+TXN2617	04/05/2023	Headphones	Electronics	South	4	86.34	0	345.36
+TXN2620	04/05/2023	Smartphone	Electronics	South	1	306.46	0	306.46
+TXN2621	04/05/2023	Printer Paper	Stationery	North	1	31.46	0	31.46
+TXN2626	04/05/2023	Water Bottle	Accessories	South	3	20.58	0.05	58.65
+TXN2627	04/05/2023	Smartphone	Electronics	South	2	308.82	0.1	555.88
+TXN2619	04/05/2023	Backpack	Accessories	North	1	57.01	0	57.01
+TXN2615	04/05/2023	Water Bottle	Accessories	West	2	19.51	0.05	37.07
+TXN2613	04/05/2023	Backpack	Accessories	North	4	56.37	0.05	214.21
+TXN2623	04/05/2023	Backpack	Accessories	South	2	52.27	0	104.54
+TXN2633	05/05/2023	Water Bottle	Accessories	South	2	20.7	0	41.4
+TXN2628	05/05/2023	Backpack	Accessories	East	3	54.11	0	162.33
+TXN2637	05/05/2023	Water Bottle	Accessories	West	3	19.91	0	59.73
+TXN2634	05/05/2023	Backpack	Accessories	North	4	54.87	0.1	197.53
+TXN2638	05/05/2023	Water Bottle	Accessories	North	2	20.65	0.05	39.23
+TXN2642	05/05/2023	Smartphone	Electronics	North	1	301.7	0.1	271.53
+TXN2640	05/05/2023	Printer Paper	Stationery	Central	3	28.68	0	86.04
+TXN2636	05/05/2023	Printer Paper	Stationery	South	3	28.91	0.1	78.06
+TXN2643	05/05/2023	Pen Set	Stationery	East	2	14.43	0.15	24.53
+TXN2641	05/05/2023	Backpack	Accessories	South	2	53.79	0	107.58
+TXN2632	05/05/2023	Water Bottle	Accessories	South	3	19.85	0.1	53.6
+TXN2644	05/05/2023	Printer Paper	Stationery	East	2	30.09	0	60.18
+TXN2629	05/05/2023	Smartphone	Electronics	Central	1	285.77	0	285.77
+TXN2631	05/05/2023	Printer Paper	Stationery	East	2	29.63	0.05	56.3
+TXN2635	05/05/2023	Backpack	Accessories	East	1	54.01	0	54.01
+TXN2630	05/05/2023	Office Chair	Furniture	West	3	157.34	0.05	448.42
+TXN2639	05/05/2023	Office Chair	Furniture	East	1	155.79	0.15	132.42
+TXN2646	06/05/2023	Pen Set	Stationery	West	2	15.36	0.15	26.11
+TXN2645	06/05/2023	Headphones	Electronics	East	3	88.3	0.15	225.16
+TXN2667	06/05/2023	Printer Paper	Stationery	West	4	29.72	0	118.88
+TXN2662	06/05/2023	Office Chair	Furniture	South	3	148.21	0.1	400.17
+TXN2663	06/05/2023	Pen Set	Stationery	East	2	15.23	0	30.46
+TXN2651	06/05/2023	Smartphone	Electronics	East	2	285.44	0.15	485.25
+TXN2648	06/05/2023	Desk	Furniture	South	1	218.33	0	218.33
+TXN2649	06/05/2023	Laptop	Electronics	East	1	461.34	0	461.34
+TXN2666	06/05/2023	Pen Set	Stationery	North	1	15.41	0.05	14.64
+TXN2656	06/05/2023	Printer Paper	Stationery	Central	4	30.9	0	123.6
+TXN2654	06/05/2023	Pen Set	Stationery	West	1	14.93	0.05	14.18
+TXN2657	06/05/2023	Desk	Furniture	East	2	209.97	0	419.94
+TXN2665	06/05/2023	Desk	Furniture	East	2	224.72	0	449.44
+TXN2661	06/05/2023	Printer Paper	Stationery	East	3	29.68	0	89.04
+TXN2650	06/05/2023	Backpack	Accessories	West	3	56.95	0.05	162.31
+TXN2659	06/05/2023	Backpack	Accessories	South	2	56.76	0	113.52
+TXN2647	06/05/2023	Pen Set	Stationery	South	2	14.84	0	29.68
+TXN2664	06/05/2023	Printer Paper	Stationery	West	3	30.77	0.1	83.08
+TXN2652	06/05/2023	Backpack	Accessories	South	2	55.54	0	111.08
+TXN2655	06/05/2023	Laptop	Electronics	Central	1	462.48	0	462.48
+TXN2653	06/05/2023	Smartphone	Electronics	North	2	287.85	0	575.7
+TXN2660	06/05/2023	Office Chair	Furniture	Central	1	149.47	0.05	142
+TXN2658	06/05/2023	Water Bottle	Accessories	East	4	19.63	0.1	70.67
+TXN2679	07/05/2023	Desk	Furniture	Central	2	229.98	0	459.96
+TXN2677	07/05/2023	Water Bottle	Accessories	West	3	20.98	0.1	56.65
+TXN2682	07/05/2023	Smartphone	Electronics	North	1	312.17	0	312.17
+TXN2683	07/05/2023	Office Chair	Furniture	East	2	147.82	0.05	280.86
+TXN2673	07/05/2023	Laptop	Electronics	North	2	452.62	0.05	859.98
+TXN2670	07/05/2023	Office Chair	Furniture	East	1	144.09	0	144.09
+TXN2668	07/05/2023	Desk	Furniture	East	1	226	0.15	192.1
+TXN2681	07/05/2023	Office Chair	Furniture	North	4	147.42	0	589.68
+TXN2685	07/05/2023	Pen Set	Stationery	North	2	14.78	0	29.56
+TXN2680	07/05/2023	Desk	Furniture	North	2	217.97	0.1	392.35
+TXN2684	07/05/2023	Laptop	Electronics	West	1	452.86	0.05	430.22
+TXN2687	07/05/2023	Smartphone	Electronics	South	2	304.57	0	609.14
+TXN2675	07/05/2023	Pen Set	Stationery	South	1	15.71	0	15.71
+TXN2686	07/05/2023	Printer Paper	Stationery	West	4	29.48	0	117.92
+TXN2676	07/05/2023	Headphones	Electronics	Central	2	91.23	0	182.46
+TXN2678	07/05/2023	Office Chair	Furniture	North	2	143.7	0.05	273.03
+TXN2674	07/05/2023	Water Bottle	Accessories	East	3	20.49	0.05	58.4
+TXN2671	07/05/2023	Headphones	Electronics	North	4	87.21	0.05	331.4
+TXN2669	07/05/2023	Water Bottle	Accessories	North	3	20.58	0	61.74
+TXN2672	07/05/2023	Water Bottle	Accessories	East	2	20.87	0.05	39.65
+TXN2697	08/05/2023	Backpack	Accessories	East	1	54.56	0.1	49.1
+TXN2701	08/05/2023	Water Bottle	Accessories	South	4	19.14	0.05	72.73
+TXN2698	08/05/2023	Office Chair	Furniture	Central	1	146.41	0	146.41
+TXN2692	08/05/2023	Desk	Furniture	South	2	224.31	0.05	426.19
+TXN2690	08/05/2023	Smartphone	Electronics	North	2	289.63	0	579.26
+TXN2696	08/05/2023	Office Chair	Furniture	East	1	146.7	0.05	139.36
+TXN2700	08/05/2023	Pen Set	Stationery	West	2	15.22	0.1	27.4
+TXN2694	08/05/2023	Water Bottle	Accessories	East	3	20.49	0	61.47
+TXN2699	08/05/2023	Office Chair	Furniture	West	1	146.12	0.15	124.2
+TXN2688	08/05/2023	Water Bottle	Accessories	South	3	19.85	0.15	50.62
+TXN2691	08/05/2023	Water Bottle	Accessories	Central	3	20.2	0	60.6
+TXN2689	08/05/2023	Pen Set	Stationery	South	2	15.18	0.05	28.84
+TXN2695	08/05/2023	Pen Set	Stationery	Central	2	15.37	0.1	27.67
+TXN2693	08/05/2023	Printer Paper	Stationery	West	3	30.74	0.1	83
+TXN2706	09/05/2023	Printer Paper	Stationery	South	1	31.23	0	31.23
+TXN2717	09/05/2023	Water Bottle	Accessories	Central	3	20.06	0.05	57.17
+TXN2719	09/05/2023	Printer Paper	Stationery	North	3	31.43	0	94.29
+TXN2715	09/05/2023	Printer Paper	Stationery	West	4	31.01	0.1	111.64
+TXN2710	09/05/2023	Water Bottle	Accessories	West	2	19.05	0.05	36.2
+TXN2708	09/05/2023	Pen Set	Stationery	East	1	14.51	0.05	13.78
+TXN2707	09/05/2023	Headphones	Electronics	North	4	89.06	0.05	338.43
+TXN2704	09/05/2023	Water Bottle	Accessories	North	4	20.93	0.05	79.53
+TXN2705	09/05/2023	Pen Set	Stationery	South	2	14.97	0.1	26.95
+TXN2714	09/05/2023	Smartphone	Electronics	Central	2	292.73	0	585.46
+TXN2703	09/05/2023	Backpack	Accessories	West	4	56.18	0.1	202.25
+TXN2718	09/05/2023	Printer Paper	Stationery	North	4	28.66	0.1	103.18
+TXN2712	09/05/2023	Water Bottle	Accessories	South	3	20.53	0	61.59
+TXN2709	09/05/2023	Pen Set	Stationery	North	3	14.79	0.1	39.93
+TXN2702	09/05/2023	Printer Paper	Stationery	South	3	30.29	0.05	86.33
+TXN2713	09/05/2023	Pen Set	Stationery	North	1	14.33	0.05	13.61
+TXN2716	09/05/2023	Desk	Furniture	West	2	225.33	0.15	383.06
+TXN2711	09/05/2023	Headphones	Electronics	Central	4	91.85	0.1	330.66
+TXN2737	10/05/2023	Backpack	Accessories	West	4	55.73	0	222.92
+TXN2723	10/05/2023	Pen Set	Stationery	Central	1	15.17	0	15.17
+TXN2728	10/05/2023	Desk	Furniture	South	1	220.22	0	220.22
+TXN2727	10/05/2023	Smartphone	Electronics	Central	1	313.86	0	313.86
+TXN2730	10/05/2023	Smartphone	Electronics	North	1	310.7	0	310.7
+TXN2732	10/05/2023	Office Chair	Furniture	West	1	148.15	0	148.15
+TXN2731	10/05/2023	Pen Set	Stationery	North	2	14.51	0	29.02
+TXN2733	10/05/2023	Backpack	Accessories	West	3	54.6	0.15	139.23
+TXN2734	10/05/2023	Pen Set	Stationery	East	4	14.71	0	58.84
+TXN2722	10/05/2023	Office Chair	Furniture	East	4	144.01	0	576.04
+TXN2725	10/05/2023	Headphones	Electronics	West	3	86.42	0.05	246.3
+TXN2720	10/05/2023	Headphones	Electronics	North	4	88.93	0.15	302.36
+TXN2724	10/05/2023	Laptop	Electronics	North	2	436.95	0	873.9
+TXN2735	10/05/2023	Backpack	Accessories	Central	2	53.5	0	107
+TXN2729	10/05/2023	Water Bottle	Accessories	South	2	19.74	0	39.48
+TXN2726	10/05/2023	Water Bottle	Accessories	North	1	20.32	0.15	17.27
+TXN2721	10/05/2023	Laptop	Electronics	Central	1	471.9	0.05	448.3
+TXN2736	10/05/2023	Smartphone	Electronics	West	1	309.27	0.15	262.88
+TXN2749	11/05/2023	Pen Set	Stationery	South	4	14.88	0	59.52
+TXN2753	11/05/2023	Backpack	Accessories	East	2	55.55	0.1	99.99
+TXN2741	11/05/2023	Laptop	Electronics	East	2	439.03	0	878.06
+TXN2755	11/05/2023	Backpack	Accessories	North	2	57.5	0.15	97.75
+TXN2738	11/05/2023	Office Chair	Furniture	East	1	147.42	0	147.42
+TXN2748	11/05/2023	Printer Paper	Stationery	East	4	29.41	0.15	99.99
+TXN2740	11/05/2023	Headphones	Electronics	North	3	88.52	0	265.56
+TXN2742	11/05/2023	Smartphone	Electronics	East	2	286.34	0	572.68
+TXN2739	11/05/2023	Pen Set	Stationery	West	3	15.4	0.15	39.27
+TXN2754	11/05/2023	Backpack	Accessories	West	1	55.43	0.15	47.12
+TXN2752	11/05/2023	Smartphone	Electronics	South	2	306.72	0.15	521.42
+TXN2751	11/05/2023	Headphones	Electronics	West	3	91.92	0	275.76
+TXN2747	11/05/2023	Water Bottle	Accessories	South	1	21	0	21
+TXN2746	11/05/2023	Pen Set	Stationery	Central	4	14.26	0	57.04
+TXN2745	11/05/2023	Water Bottle	Accessories	North	3	20.38	0	61.14
+TXN2744	11/05/2023	Pen Set	Stationery	West	3	15.05	0.1	40.64
+TXN2750	11/05/2023	Pen Set	Stationery	West	3	14.6	0	43.8
+TXN2743	11/05/2023	Pen Set	Stationery	Central	1	14.47	0	14.47
+TXN2763	12/05/2023	Headphones	Electronics	South	3	90.24	0.05	257.18
+TXN2756	12/05/2023	Pen Set	Stationery	West	2	15.11	0	30.22
+TXN2760	12/05/2023	Smartphone	Electronics	South	2	312.67	0.15	531.54
+TXN2768	12/05/2023	Headphones	Electronics	West	2	90.13	0.05	171.25
+TXN2770	12/05/2023	Pen Set	Stationery	North	4	14.66	0.1	52.78
+TXN2769	12/05/2023	Pen Set	Stationery	North	4	15.47	0.05	58.79
+TXN2759	12/05/2023	Backpack	Accessories	North	1	54.22	0.05	51.51
+TXN2757	12/05/2023	Water Bottle	Accessories	North	1	20.44	0	20.44
+TXN2762	12/05/2023	Smartphone	Electronics	South	1	292.82	0	292.82
+TXN2772	12/05/2023	Pen Set	Stationery	South	3	14.29	0	42.87
+TXN2761	12/05/2023	Headphones	Electronics	South	4	91.71	0	366.84
+TXN2771	12/05/2023	Headphones	Electronics	North	2	90.21		180.42
+TXN2766	12/05/2023	Desk	Furniture	Central	1	209.12	0	209.12
+TXN2764	12/05/2023	Printer Paper	Stationery	Central	1	30.89	0	30.89
+TXN2765	12/05/2023	Headphones	Electronics	West	2	91.84	0.15	156.13
+TXN2758	12/05/2023	Printer Paper	Stationery	East	2	30.01	0	60.02
+TXN2767	12/05/2023	Pen Set	Stationery	North	4	15.07	0	60.28
+TXN2782	13/05/2023	Smartphone	Electronics	Central	2	303.87	0	607.74
+TXN2775	13/05/2023	Pen Set	Stationery	East	4	15.52	0	62.08
+TXN2791	13/05/2023	Pen Set	Stationery	East	1	14.97	0.15	12.72
+TXN2778	13/05/2023	Pen Set	Stationery	Central	3	15.02	0.05	42.81
+TXN2795	13/05/2023	Water Bottle	Accessories	North	1	19.65	0	19.65
+TXN2786	13/05/2023	Smartphone	Electronics	Central	2	288.98	0	577.96
+TXN2790	13/05/2023	Smartphone	Electronics	East	2	304.29	0.15	517.29
+TXN2783	13/05/2023	Office Chair	Furniture	North	2	156.28	0.15	265.68
+TXN2773	13/05/2023	Water Bottle	Accessories	North	4	19.44	0	77.76
+TXN2779	13/05/2023	Pen Set	Stationery	South	3	14.32	0.05	40.81
+TXN2793	13/05/2023	Desk	Furniture	South	1	215.16	0	215.16
+TXN2787	13/05/2023	Water Bottle	Accessories	East	2	19.23	0.1	34.61
+TXN2781	13/05/2023	Backpack	Accessories	East	4	52.37	0.05	199.01
+TXN2785	13/05/2023	Pen Set	Stationery	West	3	15.36	0.05	43.78
+TXN2777	13/05/2023	Water Bottle	Accessories	West	1	19.39	0.15	16.48
+TXN2780	13/05/2023	Water Bottle	Accessories	Central	4	19.1	0.1	68.76
+TXN2789	13/05/2023	Headphones	Electronics	West	3	94.36	0.05	268.93
+TXN2796	13/05/2023	Laptop	Electronics	West	1	469.36	0	469.36
+TXN2792	13/05/2023	Printer Paper	Stationery	North	1	30.86	0	30.86
+TXN2788	13/05/2023	Headphones	Electronics	West	1	87.9	0	87.9
+TXN2774	13/05/2023	Desk	Furniture	South	2	226.2	0.05	429.78
+TXN2776	13/05/2023	Office Chair	Furniture	East	2	154.8	0.1	278.64
+TXN2794	13/05/2023	Pen Set	Stationery	Central	2	14.51	0	29.02
+TXN2784	13/05/2023	Headphones	Electronics	South	4	92.31	0.1	332.32
+TXN2814	14/05/2023	Water Bottle	Accessories	South	4	19.78	0.15	67.25
+TXN2810	14/05/2023	Printer Paper	Stationery	South	2	29.57	0	59.14
+TXN2803	14/05/2023	Laptop	Electronics	East	2	470.38	0	940.76
+TXN2801	14/05/2023	Water Bottle	Accessories	East	1	19.63	0	19.63
+TXN2813	14/05/2023	Headphones	Electronics	West	1	87.44	0	87.44
+TXN2818	14/05/2023	Backpack	Accessories	East	2	52.77	0.1	94.99
+TXN2808	14/05/2023	Office Chair	Furniture	West	1	150.54	0.15	127.96
+TXN2802	14/05/2023	Office Chair	Furniture	North	3	146.46	0	439.38
+TXN2806	14/05/2023	Water Bottle	Accessories	North	2	19.37	0.1	34.87
+TXN2819	14/05/2023	Pen Set	Stationery	Central	2	14.56	0.15	24.75
+TXN2797	14/05/2023	Water Bottle	Accessories	South	2	19.55	0	39.1
+TXN2812	14/05/2023	Printer Paper	Stationery	North	4	28.6	0	114.4
+TXN2817	14/05/2023	Water Bottle	Accessories	North	3	20.18	0.05	57.51
+TXN2804	14/05/2023	Printer Paper	Stationery	North	4	30.63	0	122.52
+TXN2811	14/05/2023	Water Bottle	Accessories	West	1	19.24	0	19.24
+TXN2809	14/05/2023	Printer Paper	Stationery	Central	3	28.74	0	86.22
+TXN2820	14/05/2023	Printer Paper	Stationery	North	1	28.82	0	28.82
+TXN2807	14/05/2023	Headphones	Electronics	Central	4	93.72	0.1	337.39
+TXN2815	14/05/2023	Water Bottle	Accessories	South	1	20.07	0.1	18.06
+TXN2805	14/05/2023	Office Chair	Furniture	West	2	149.69	0.05	284.41
+TXN2799	14/05/2023	Desk	Furniture	East	2	223.13	0.15	379.32
+TXN2816	14/05/2023	Office Chair	Furniture	North	3	150.63	0.05	429.3
+TXN2800	14/05/2023	Headphones	Electronics	South	3	90.42	0.15	230.57
+TXN2798	14/05/2023	Headphones	Electronics	West	1	88.75	0.15	75.44
+TXN2829	15/05/2023	Printer Paper	Stationery	North	3	30.92	0.1	83.48
+TXN2822	15/05/2023	Headphones	Electronics	West	2	93.86	0.05	178.33
+TXN2823	15/05/2023	Pen Set	Stationery	North	3	14.45	0.1	39.01
+TXN2832	15/05/2023	Headphones	Electronics	North	4	90.88	0.1	327.17
+TXN2828	15/05/2023	Office Chair	Furniture	Central	2	151.55	0	303.1
+TXN2830	15/05/2023	Pen Set	Stationery	North	3	15.11	0	45.33
+TXN2831	15/05/2023	Water Bottle	Accessories	North	3	19.01	0.15	48.48
+TXN2827	15/05/2023	Desk	Furniture	North	2	219.76	0	439.52
+TXN2833	15/05/2023	Backpack	Accessories	South	2	54.78	0	109.56
+TXN2836	15/05/2023	Backpack	Accessories	South	2	56.6	0	113.2
+TXN2825	15/05/2023	Water Bottle	Accessories	West	2	20.64	0.15	35.09
+TXN2835	15/05/2023	Water Bottle	Accessories	East	3	20.83	0.05	59.37
+TXN2821	15/05/2023	Printer Paper	Stationery	Central	1	29.06	0.1	26.15
+TXN2824	15/05/2023	Printer Paper	Stationery	North	4	29.57	0	118.28
+TXN2834	15/05/2023	Printer Paper	Stationery	South	1	29.32	0	29.32
+TXN2826	15/05/2023	Headphones	Electronics	East	3	91.38	0	274.14
+TXN2839	16/05/2023	Office Chair	Furniture	North	3	152.43	0.05	434.43
+TXN2841	16/05/2023	Printer Paper	Stationery	West	3	31.39	0.1	84.75
+TXN2844	16/05/2023	Water Bottle	Accessories	North	2	19.73	0.1	35.51
+TXN2846	16/05/2023	Headphones	Electronics	West	1	92.52	0	92.52
+TXN2848	16/05/2023	Desk	Furniture	Central	2	216.34	0	432.68
+TXN2842	16/05/2023	Pen Set	Stationery	East	1	15.15	0.05	14.39
+TXN2845	16/05/2023	Smartphone	Electronics	North	2	298.86	0	597.72
+TXN2852	16/05/2023	Smartphone	Electronics	West	2	311.53	0	623.06
+TXN2837	16/05/2023	Headphones	Electronics	Central	1	94.02	0	94.02
+TXN2847	16/05/2023	Desk	Furniture	North	2	211.44	0	422.88
+TXN2849	16/05/2023	Printer Paper	Stationery	South	2	28.89	0.1	52
+TXN2838	16/05/2023	Backpack	Accessories	West	1	57.19	0	57.19
+TXN2850	16/05/2023	Water Bottle	Accessories	Central	3	20.3	0	60.9
+TXN2851	16/05/2023	Printer Paper	Stationery	North	4	30.1	0	120.4
+TXN2840	16/05/2023	Printer Paper	Stationery	South	3	29.06	0.1	78.46
+TXN2843	16/05/2023	Smartphone	Electronics	East	2	306.49	0.1	551.68
+TXN2863	17/05/2023	Backpack	Accessories	South	1	57.13	0.05	54.27
+TXN2868	17/05/2023	Desk	Furniture	South	1	226.8	0	226.8
+TXN2854	17/05/2023	Office Chair	Furniture	Central	3	155.9	0.15	397.55
+TXN2857	17/05/2023	Water Bottle	Accessories	North	1	20.9	0.05	19.85
+TXN2855	17/05/2023	Office Chair	Furniture	South	1	149.1	0	149.1
+TXN2853	17/05/2023	Headphones	Electronics	South	3	93.78	0.1	253.21
+TXN2859	17/05/2023	Laptop	Electronics	South	2	444.01	0	888.02
+TXN2865	17/05/2023	Water Bottle	Accessories	Central	1	20.15	0.05	19.14
+TXN2858	17/05/2023	Office Chair	Furniture	Central	1	157.22	0	157.22
+TXN2860	17/05/2023	Backpack	Accessories	East	3	56.6	0	169.8
+TXN2866	17/05/2023	Water Bottle	Accessories	South	3	19.13	0.1	51.65
+TXN2864	17/05/2023	Backpack	Accessories	Central	3	55.55	0	166.65
+TXN2861	17/05/2023	Desk	Furniture	East	1	230.95	0	230.95
+TXN2867	17/05/2023	Water Bottle	Accessories	West	2	20.48	0.1	36.86
+TXN2856	17/05/2023	Water Bottle	Accessories	Central	4	20.27	0	81.08
+TXN2862	17/05/2023	Printer Paper	Stationery	West	1	31.22	0	31.22
+TXN2878	18/05/2023	Headphones	Electronics	West	1	92.64	0.1	83.38
+TXN2883	18/05/2023	Printer Paper	Stationery	Central	1	29.3	0.05	27.84
+TXN2876	18/05/2023	Smartphone	Electronics	West	1	294.51	0	294.51
+TXN2869	18/05/2023	Backpack	Accessories	West	4	54.01	0.15	183.63
+TXN2884	18/05/2023	Water Bottle	Accessories	West	3	20.99	0.15	53.52
+TXN2885	18/05/2023	Printer Paper	Stationery	West	3	28.57	0.15	72.85
+TXN2875	18/05/2023	Office Chair	Furniture	South	3	152.91	0.1	412.86
+TXN2873	18/05/2023	Smartphone	Electronics	Central	2	299.91	0	599.82
+TXN2872	18/05/2023	Printer Paper	Stationery	East	3	31.16	0.1	84.13
+TXN2882	18/05/2023	Water Bottle	Accessories	South	2	20.87	0	41.74
+TXN2874	18/05/2023	Pen Set	Stationery	Central	2	14.3	0	28.6
+TXN2871	18/05/2023	Water Bottle	Accessories	West	3	19.1	0.15	48.71
+TXN2870	18/05/2023	Smartphone	Electronics	North	2	297.52	0	595.04
+TXN2877	18/05/2023	Backpack	Accessories	North	4	55.16	0	220.64
+TXN2881	18/05/2023	Backpack	Accessories	East	2	55.73	0	111.46
+TXN2886	18/05/2023	Printer Paper	Stationery	South	2	29.62	0.1	53.32
+TXN2879	18/05/2023	Headphones	Electronics	Central	2	89.3	0.05	169.67
+TXN2880	18/05/2023	Pen Set	Stationery	East	3	14.47	0.15	36.9
+TXN2892	19/05/2023	Printer Paper	Stationery	North	2	29.32	0	58.64
+TXN2897	19/05/2023	Office Chair	Furniture	South	3	154.85	0	464.55
+TXN2903	19/05/2023	Smartphone	Electronics	East	2	295.44	0	590.88
+TXN2895	19/05/2023	Water Bottle	Accessories	South	4	19.24	0	76.96
+TXN2901	19/05/2023	Office Chair	Furniture	South	3	155.35	0.1	419.44
+TXN2891	19/05/2023	Desk	Furniture	West	1	218.57	0.05	207.64
+TXN2890	19/05/2023	Printer Paper	Stationery	East	4	29.04	0.05	110.35
+TXN2896	19/05/2023	Pen Set	Stationery	South	2	15.23	0	30.46
+TXN2900	19/05/2023	Backpack	Accessories	East	3	55.23	0.05	157.41
+TXN2902	19/05/2023	Water Bottle	Accessories	Central	3	19.85	0.15	50.62
+TXN2899	19/05/2023	Printer Paper	Stationery	Central	4	30.95	0	123.8
+TXN2888	19/05/2023	Office Chair	Furniture	East	3	144.17	0.1	389.26
+TXN2887	19/05/2023	Desk	Furniture	East	2	214.44	0	428.88
+TXN2893	19/05/2023	Printer Paper	Stationery	South	1	30.81	0.1	27.73
+TXN2894	19/05/2023	Headphones	Electronics	South	3	86.01	0.15	219.33
+TXN2898	19/05/2023	Backpack	Accessories	South	1	52.76	0	52.76
+TXN2889	19/05/2023	Headphones	Electronics	East	1	90.47	0.05	85.95
+TXN2920	20/05/2023	Headphones	Electronics	West	4	86.82	0.1	312.55
+TXN2910	20/05/2023	Water Bottle	Accessories	East	2	20.69	0.1	37.24
+TXN2913	20/05/2023	Water Bottle	Accessories	North	1	19.54	0	19.54
+TXN2915	20/05/2023	Pen Set	Stationery	Central	3	14.76	0.1	39.85
+TXN2917	20/05/2023	Headphones	Electronics	East	4	88.37	0.05	335.81
+TXN2925	20/05/2023	Office Chair	Furniture	North	1	146.8	0.05	139.46
+TXN2904	20/05/2023	Water Bottle	Accessories	East	3	19.56	0	58.68
+TXN2909	20/05/2023	Office Chair	Furniture	South	2	145.84	0.05	277.1
+TXN2924	20/05/2023	Headphones	Electronics	North	3	90.9	0	272.7
+TXN2923	20/05/2023	Backpack	Accessories	Central	2	54.05	0.1	97.29
+TXN2906	20/05/2023	Pen Set	Stationery	North	2	14.39	0	28.78
+TXN2905	20/05/2023	Laptop	Electronics	Central	2	444.49	0.1	800.08
+TXN2919	20/05/2023	Pen Set	Stationery	Central	4	14.63	0	58.52
+TXN2911	20/05/2023	Headphones	Electronics	North	2	90.01	0.1	162.02
+TXN2921	20/05/2023	Headphones	Electronics	North	1	91.67	0.15	77.92
+TXN2918	20/05/2023	Pen Set	Stationery	East	2	14.93	0.15	25.38
+TXN2922	20/05/2023	Pen Set	Stationery	South	2	14.76	0.05	28.04
+TXN2908	20/05/2023	Water Bottle	Accessories	West	3	20.41	0	61.23
+TXN2916	20/05/2023	Laptop	Electronics	West	2	454	0	908
+TXN2914	20/05/2023	Backpack	Accessories	North	4	54.91	0	219.64
+TXN2907	20/05/2023	Water Bottle	Accessories	North	2	19.86	0.1	35.75
+TXN2912	20/05/2023	Desk	Furniture	North	2	225.18	0.05	427.84
+TXN2937	21/05/2023	Desk	Furniture	North	2	221.85	0.05	421.51
+TXN2945	21/05/2023	Headphones	Electronics	West	3	85.54	0	256.62
+TXN2928	21/05/2023	Backpack	Accessories	North	1	55.62	0.1	50.06
+TXN2944	21/05/2023	Backpack	Accessories	North	4	56.9	0.05	216.22
+TXN2936	21/05/2023	Printer Paper	Stationery	North	2	28.81	0.15	48.98
+TXN2946	21/05/2023	Office Chair	Furniture	North	1	143.55	0.05	136.37
+TXN2935	21/05/2023	Office Chair	Furniture	West	2	153.09	0	306.18
+TXN2931	21/05/2023	Laptop	Electronics	North	2	439.26	0	878.52
+TXN2929	21/05/2023	Smartphone	Electronics	East	2	307.39	0	614.78
+TXN2933	21/05/2023	Water Bottle	Accessories	North	3	19.55	0.15	49.85
+TXN2943	21/05/2023	Water Bottle	Accessories	South	2	20.3	0	40.6
+TXN2930	21/05/2023	Laptop	Electronics	West	2	453.99	0	907.98
+TXN2938	21/05/2023	Water Bottle	Accessories	East	4	19.72	0	78.88
+TXN2949	21/05/2023	Pen Set	Stationery	South	1	15.15	0.05	14.39
+TXN2947	21/05/2023	Pen Set	Stationery	North	1	14.57	0	14.57
+TXN2940	21/05/2023	Pen Set	Stationery	South	4	15.01	0.1	54.04
+TXN2926	21/05/2023	Printer Paper	Stationery	East	3	30.24	0.15	77.11
+TXN2934	21/05/2023	Office Chair	Furniture	South	3	143.4	0.1	387.18
+TXN2942	21/05/2023	Water Bottle	Accessories	North	4	20.77	0.15	70.62
+TXN2932	21/05/2023	Printer Paper	Stationery	West	4	30.44	0	121.76
+TXN2939	21/05/2023	Water Bottle	Accessories	North	2	20.91	0.05	39.73
+TXN2927	21/05/2023	Headphones	Electronics	North	4	87.27	0.1	314.17
+TXN2950	21/05/2023	Water Bottle	Accessories	Central	1	19.57	0	19.57
+TXN2941	21/05/2023	Water Bottle	Accessories	Central	1	19.82	0	19.82
+TXN2948	21/05/2023	Headphones	Electronics	South	1	87.01	0.05	82.66
+TXN2960	22/05/2023	Water Bottle	Accessories	East	4	20.71	0.05	78.7
+TXN2965	22/05/2023	Backpack	Accessories	Central	2	55.48	0.15	94.32
+TXN2963	22/05/2023	Water Bottle	Accessories	South	4	20.8	0.05	79.04
+TXN2957	22/05/2023	Water Bottle	Accessories	Central	4	20.92	0.15	71.13
+TXN2953	22/05/2023	Water Bottle	Accessories	West	3	19.52	0	58.56
+TXN2955	22/05/2023	Backpack	Accessories	East	4	52.49	0	209.96
+TXN2954	22/05/2023	Backpack	Accessories	East	2	56.73	0	113.46
+TXN2958	22/05/2023	Printer Paper	Stationery	Central	3	31.19	0	93.57
+TXN2962	22/05/2023	Office Chair	Furniture	North	2	149.69	0	299.38
+TXN2959	22/05/2023	Water Bottle	Accessories	Central	3	19.4	0.1	52.38
+TXN2956	22/05/2023	Headphones	Electronics	West	2	85.63	0.05	162.7
+TXN2961	22/05/2023	Water Bottle	Accessories	North	2	20.73	0	41.46
+TXN2951	22/05/2023	Pen Set	Stationery	West	2	14.34	0.15	24.38
+TXN2964	22/05/2023	Laptop	Electronics	East	2	459.11	0.1	826.4
+TXN2952	22/05/2023	Pen Set	Stationery	North	2	14.63	0	29.26
+TXN2966	23/05/2023	Pen Set	Stationery	North	1	14.25	0	14.25
+TXN2975	23/05/2023	Printer Paper	Stationery	West	2	29.68	0.1	53.42
+TXN2969	23/05/2023	Headphones	Electronics	West	4	88.98	0	355.92
+TXN2977	23/05/2023	Pen Set	Stationery	Central	2	15.31	0	30.62
+TXN2970	23/05/2023	Water Bottle	Accessories	South	4	20.18	0.05	76.68
+TXN2971	23/05/2023	Pen Set	Stationery	Central	4	14.25	0	57
+TXN2968	23/05/2023	Headphones	Electronics	South	3	94.03	0	282.09
+TXN2973	23/05/2023	Headphones	Electronics	East	1	93.06	0	93.06
+TXN2976	23/05/2023	Water Bottle	Accessories	East	4	20.87	0.1	75.13
+TXN2978	23/05/2023	Pen Set	Stationery	West	1	15.07	0	15.07
+TXN2974	23/05/2023	Water Bottle	Accessories	Central	4	20.43	0	81.72
+TXN2980	23/05/2023	Smartphone	Electronics	East	1	297.73	0.15	253.07
+TXN2979	23/05/2023	Water Bottle	Accessories	South	2	19.25	0	38.5
+TXN2972	23/05/2023	Printer Paper	Stationery	West	1	28.75	0	28.75
+TXN2967	23/05/2023	Backpack	Accessories	East	1	54.07	0.1	48.66
+TXN2991	24/05/2023	Backpack	Accessories	East	4	57.41	0	229.64
+TXN2984	24/05/2023	Backpack	Accessories	East	4	53.2	0.15	180.88
+TXN2992	24/05/2023	Office Chair	Furniture	South	1	153.38	0	153.38
+TXN2994	24/05/2023	Office Chair	Furniture	East	2	152.98	0	305.96
+TXN2986	24/05/2023	Water Bottle	Accessories	North	2	20.72	0	41.44
+TXN2985	24/05/2023	Smartphone	Electronics	South	1	286.95	0	286.95
+TXN2995	24/05/2023	Printer Paper	Stationery	West	4	31.21	0.05	118.6
+TXN2989	24/05/2023	Laptop	Electronics	East	2	465.3	0	930.6
+TXN2988	24/05/2023	Headphones	Electronics	West	2	92.03	0.1	165.65
+TXN2981	24/05/2023	Printer Paper	Stationery	North	4	29.97	0.15	101.9
+TXN2990	24/05/2023	Pen Set	Stationery	Central	3	14.64	0	43.92
+TXN2987	24/05/2023	Printer Paper	Stationery	North	2	31.29	0	62.58
+TXN2982	24/05/2023	Headphones	Electronics	North	3	94.4	0.15	240.72
+TXN2983	24/05/2023	Pen Set	Stationery	North	2	15.12	0	30.24
+TXN2993	24/05/2023	Pen Set	Stationery	Central	4	14.54	0.1	52.34
+TXN3003	25/05/2023	Headphones	Electronics	West	2	88.93	0	177.86
+TXN3002	25/05/2023	Headphones	Electronics	East	2	89.02	0	178.04
+TXN3008	25/05/2023	Printer Paper	Stationery	Central	1	29.7	0	29.7
+TXN3009	25/05/2023	Desk	Furniture	West	2	222.73	0	445.46
